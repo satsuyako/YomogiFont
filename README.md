@@ -43,7 +43,7 @@ JIS第一・第二水準すべての漢字とIBM拡張文字が使えます。<b
 　ただし、配布の際はSIL Open Font Licenseに基づいてリリースする必要があります。<br />
 
 ・SILライセンスについて詳しくはライセンス原文日本語サイト<br />
-　（https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1）<br />
+　https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html<br />
 　または同梱の「OFL.txt」（英語）をご確認ください。<br />
 
 <h2>できないこと</h2>
