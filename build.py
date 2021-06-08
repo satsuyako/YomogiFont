@@ -10,6 +10,13 @@ import os
 print ("Converting to UFO")
 main(("glyphs2ufo", "sources/Yomogi.glyphs"))
 
+def GASP_set(font:TTFont):
+    if "gasp" not in font:
+        font["gasp"] = newTable("gasp")
+        font["gasp"].gaspRange = {}
+    if font["gasp"].gaspRange != {65535: 0x000A}:
+        font["gasp"].gaspRange = {65535: 0x000A}
+
 exportFont = ufoLib2.Font.open("sources/Yomogi-Regular.ufo")
 
 exportFont.lib['com.github.googlei18n.ufo2ft.filters'] = [{
@@ -28,19 +35,10 @@ static_ttf["DSIG"].usNumSigs = 0
 static_ttf["DSIG"].signatureRecords = []
 static_ttf["head"].flags |= 1 << 3        #sets flag to always round PPEM to integer
 
+GASP_set(static_ttf)
+
 print ("[Yomogi] Saving")
 static_ttf.save("fonts/ttf/Yomogi-Regular.ttf")
 
 shutil.rmtree("sources/Yomogi-Regular.ufo")
 os.remove("sources/Yomogi.designspace")
-
-subprocess.check_call(
-        [
-            "ttfautohint",
-            "--stem-width",
-            "nsn",
-            "fonts/ttf/Yomogi-Regular.ttf",
-            "fonts/ttf/Yomogi-Regular-hinted.ttf",
-        ]
-    )
-shutil.move("fonts/ttf/Yomogi-Regular-hinted.ttf", "fonts/ttf/Yomogi-Regular.ttf")
