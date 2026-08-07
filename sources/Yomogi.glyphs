@@ -1,10 +1,12 @@
 {
-.appVersion = "1364";
+.appVersion = "3436";
 DisplayStrings = (
 "/uni4F56 \012/uni6CCC \012/uni6BD6 \012/uni7955 \012/uni79D8 \012\012/uni4F56/uni79D8/uni5BC6/.notdef",
 "a/space a:;a\012colon:\012semicolon;",
 "\012\012\012\"/space-han U+0022\"\012'/space U+0027'\012/quotedblleft U+201C/space U+201D/quotedblright \012/quoteleft U+2018/space U+2019/quoteright \012\0121/space +/space 2/space =/space 3/space -/space ~\012\012,.;",
-"'"
+"l/lacute/lcaron/lcommaaccent/ldot l/lj/lslash",
+"/f_f_l/fl",
+nnlnn
 );
 classes = (
 {
@@ -16,8 +18,9 @@ name = Uppercase;
 copyright = "Copyright 2020 The Yomogi Project Authors (https://github.com/satsuyako/YomogiFont), all rights reserved.";
 customParameters = (
 {
-name = vendorID;
-value = STYK;
+name = fsType;
+value = (
+);
 },
 {
 name = license;
@@ -28,9 +31,8 @@ name = licenseURL;
 value = "https://scripts.sil.org/OFL";
 },
 {
-name = fsType;
-value = (
-);
+name = vendorID;
+value = STYK;
 }
 );
 date = "2023-05-29 21:27:05 +0000";
@@ -199,7 +201,6 @@ GSOffsetVertical = 10;
 verticalStems = (
 44
 );
-weightValue = 400;
 xHeight = 475;
 }
 );
@@ -12936,7 +12937,7 @@ unicode = 006C;
 },
 {
 glyphname = lacute;
-lastChange = "2019-12-06 18:59:50 +0000";
+lastChange = "2026-08-07 18:14:34 +0000";
 layers = (
 {
 components = (
@@ -12945,7 +12946,7 @@ name = l;
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, -31, 181}";
+transform = "{1, 0, 0, 1, 29, 181}";
 }
 );
 layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
@@ -12956,7 +12957,7 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2019-12-06 19:01:52 +0000";
+lastChange = "2026-08-07 18:14:44 +0000";
 layers = (
 {
 components = (
@@ -12969,14 +12970,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"340 592 LINE SMOOTH",
-"338 567 OFFCURVE",
-"371 555 OFFCURVE",
-"378 588 CURVE SMOOTH",
-"405 720 LINE SMOOTH",
-"414 765 OFFCURVE",
-"357 780 OFFCURVE",
-"352 723 CURVE SMOOTH"
+"360 592 LINE SMOOTH",
+"358 567 OFFCURVE",
+"391 555 OFFCURVE",
+"398 588 CURVE SMOOTH",
+"425 720 LINE SMOOTH",
+"434 765 OFFCURVE",
+"377 780 OFFCURVE",
+"372 723 CURVE SMOOTH"
 );
 }
 );
@@ -12987,7 +12988,7 @@ unicode = 013E;
 },
 {
 glyphname = lcommaaccent;
-lastChange = "2019-12-06 19:01:59 +0000";
+lastChange = "2026-08-07 18:14:54 +0000";
 layers = (
 {
 components = (
@@ -12996,7 +12997,7 @@ name = l;
 },
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, -72, 31}";
+transform = "{1, 0, 0, 1, -52, 31}";
 }
 );
 layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
@@ -13007,7 +13008,7 @@ unicode = 013C;
 },
 {
 glyphname = ldot;
-lastChange = "2019-12-06 19:04:22 +0000";
+lastChange = "2026-08-07 18:23:51 +0000";
 layers = (
 {
 components = (
@@ -13016,7 +13017,7 @@ name = l;
 },
 {
 name = periodcentered;
-transform = "{1, 0, 0, 1, 59, 46}";
+transform = "{1, 0, 0, 1, 200, 46}";
 }
 );
 layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
@@ -13027,13 +13028,13 @@ unicode = 0140;
 },
 {
 glyphname = lj;
-lastChange = "2019-12-14 11:24:17 +0000";
+lastChange = "2026-08-07 18:15:15 +0000";
 layers = (
 {
 components = (
 {
 name = l;
-transform = "{1, 0, 0, 1, 86, 0}";
+transform = "{1, 0, 0, 1, 56, 0}";
 },
 {
 name = j;
@@ -13048,7 +13049,7 @@ unicode = 01C9;
 },
 {
 glyphname = lslash;
-lastChange = "2019-12-06 19:03:47 +0000";
+lastChange = "2026-08-07 18:13:37 +0000";
 layers = (
 {
 components = (
@@ -13061,14 +13062,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"89 336 LINE SMOOTH",
-"54 315 OFFCURVE",
-"75 282 OFFCURVE",
-"107 301 CURVE SMOOTH",
-"344 441 LINE SMOOTH",
-"378 461 OFFCURVE",
-"359 497 OFFCURVE",
-"324 476 CURVE SMOOTH"
+"122 336 LINE SMOOTH",
+"87 315 OFFCURVE",
+"108 282 OFFCURVE",
+"140 301 CURVE SMOOTH",
+"377 441 LINE SMOOTH",
+"411 461 OFFCURVE",
+"392 497 OFFCURVE",
+"357 476 CURVE SMOOTH"
 );
 }
 );
@@ -1778498,12 +1778499,140 @@ unicode = 000D;
 },
 {
 glyphname = .notdef;
-lastChange = "2023-05-22 10:31:46 +0000";
+lastChange = "2026-08-07 17:46:11 +0000";
 layers = (
 {
 layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"884 771 OFFCURVE",
+"878 774 OFFCURVE",
+"873 773 CURVE",
+"128 771 LINE SMOOTH",
+"122 771 OFFCURVE",
+"116 768 OFFCURVE",
+"112 764 CURVE SMOOTH",
+"108 760 OFFCURVE",
+"106 754 OFFCURVE",
+"106 748 CURVE SMOOTH",
+"116 -35 LINE SMOOTH",
+"116 -47 OFFCURVE",
+"126 -56 OFFCURVE",
+"138 -56 CURVE",
+"138 -56 OFFCURVE",
+"138 -56 OFFCURVE",
+"138 -56 CURVE",
+"866 -51 LINE",
+"878 -50 OFFCURVE",
+"887 -41 OFFCURVE",
+"887 -29 CURVE SMOOTH",
+"895 751 LINE SMOOTH",
+"895 757 OFFCURVE",
+"892 763 OFFCURVE",
+"888 767 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"844 -7 LINE",
+"160 -12 LINE",
+"150 727 LINE",
+"851 730 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"513 36 OFFCURVE",
+"536 54 OFFCURVE",
+"541 85 CURVE SMOOTH",
+"544 115 OFFCURVE",
+"536 138 OFFCURVE",
+"514 151 CURVE SMOOTH",
+"493 164 OFFCURVE",
+"469 166 OFFCURVE",
+"443 156 CURVE SMOOTH",
+"417 147 OFFCURVE",
+"403 123 OFFCURVE",
+"404 90 CURVE SMOOTH",
+"404 57 OFFCURVE",
+"429 37 OFFCURVE",
+"473 30 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"321 558 OFFCURVE",
+"323 547 OFFCURVE",
+"332 540 CURVE SMOOTH",
+"340 534 OFFCURVE",
+"351 540 OFFCURVE",
+"362 559 CURVE",
+"372 586 OFFCURVE",
+"390 607 OFFCURVE",
+"417 623 CURVE SMOOTH",
+"443 641 OFFCURVE",
+"477 649 OFFCURVE",
+"518 647 CURVE SMOOTH",
+"559 646 OFFCURVE",
+"594 633 OFFCURVE",
+"619 610 CURVE SMOOTH",
+"644 587 OFFCURVE",
+"660 560 OFFCURVE",
+"664 528 CURVE SMOOTH",
+"668 496 OFFCURVE",
+"664 469 OFFCURVE",
+"652 447 CURVE SMOOTH",
+"641 425 OFFCURVE",
+"627 410 OFFCURVE",
+"602 402 CURVE",
+"581 393 OFFCURVE",
+"554 387 OFFCURVE",
+"528 385 CURVE SMOOTH",
+"497 382 OFFCURVE",
+"478 377 OFFCURVE",
+"468 371 CURVE SMOOTH",
+"455 365 OFFCURVE",
+"451 351 OFFCURVE",
+"450 330 CURVE",
+"455 247 LINE",
+"454 234 OFFCURVE",
+"462 227 OFFCURVE",
+"476 224 CURVE SMOOTH",
+"492 222 OFFCURVE",
+"499 232 OFFCURVE",
+"499 252 CURVE SMOOTH",
+"498 338 LINE",
+"551 346 OFFCURVE",
+"594 354 OFFCURVE",
+"621 364 CURVE SMOOTH",
+"648 373 OFFCURVE",
+"673 394 OFFCURVE",
+"688 425 CURVE SMOOTH",
+"706 456 OFFCURVE",
+"711 492 OFFCURVE",
+"705 534 CURVE SMOOTH",
+"698 577 OFFCURVE",
+"679 614 OFFCURVE",
+"645 642 CURVE SMOOTH",
+"612 670 OFFCURVE",
+"571 684 OFFCURVE",
+"525 687 CURVE SMOOTH",
+"478 689 OFFCURVE",
+"436 681 OFFCURVE",
+"401 661 CURVE SMOOTH",
+"367 642 OFFCURVE",
+"342 613 OFFCURVE",
+"326 576 CURVE"
+);
+}
+);
 vertWidth = 1000;
-width = 500;
+width = 1000;
 }
 );
 note = .notdef;
@@ -1781059,7 +1781188,7 @@ unicode = 00F7;
 },
 {
 glyphname = equal;
-lastChange = "2023-05-29 11:07:10 +0000";
+lastChange = "2026-08-07 18:18:04 +0000";
 layers = (
 {
 layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
@@ -1781074,13 +1781203,13 @@ nodes = (
 "20 395 OFFCURVE",
 "27 386 OFFCURVE",
 "44 383 CURVE",
-"451 382 LINE SMOOTH",
-"470 381 OFFCURVE",
-"479 389 OFFCURVE",
-"479 406 CURVE SMOOTH",
-"478 421 OFFCURVE",
-"468 431 OFFCURVE",
-"451 434 CURVE"
+"437 382 LINE SMOOTH",
+"456 382 OFFCURVE",
+"465 389 OFFCURVE",
+"465 406 CURVE SMOOTH",
+"464 421 OFFCURVE",
+"454 431 OFFCURVE",
+"437 434 CURVE"
 );
 },
 {
@@ -1818457,5 +1818586,5 @@ manufacturer = satsuyako;
 manufacturerURL = "http://satsuyako.com/";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 205;
+versionMinor = 206;
 }
