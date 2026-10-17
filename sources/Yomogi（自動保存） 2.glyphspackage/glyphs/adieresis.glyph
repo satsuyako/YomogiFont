@@ -1,0 +1,20 @@
+{
+glyphname = adieresis;
+lastChange = "2019-12-06 18:31:09 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (-90,-91);
+ref = dieresiscomb;
+}
+);
+width = 500;
+}
+);
+unicode = 228;
+}

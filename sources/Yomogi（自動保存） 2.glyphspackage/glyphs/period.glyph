@@ -1,0 +1,32 @@
+{
+glyphname = period;
+lastChange = "2019-12-03 20:17:31 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(181,33,o),
+(181,73,cs),
+(181,107,o),
+(158,138,o),
+(114,138,cs),
+(75,138,o),
+(43,112,o),
+(43,69,cs),
+(43,31,o),
+(76,5,o),
+(111,5,cs),
+(155,5,o)
+);
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00015;
+unicode = 46;
+}

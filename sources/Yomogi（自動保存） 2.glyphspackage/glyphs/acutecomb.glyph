@@ -1,0 +1,28 @@
+{
+glyphname = acutecomb;
+lastChange = "2019-12-06 18:19:37 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(188,605,ls),
+(176,583,o),
+(208,560,o),
+(228,588,cs),
+(307,700,ls),
+(335,739,o),
+(276,773,o),
+(250,723,cs)
+);
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00127;
+unicode = 769;
+}

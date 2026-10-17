@@ -1,0 +1,19 @@
+{
+glyphname = oe.rotat;
+lastChange = "2020-12-04 22:35:27 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+angle = -90;
+pos = (136,865);
+ref = oe;
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08868;
+}

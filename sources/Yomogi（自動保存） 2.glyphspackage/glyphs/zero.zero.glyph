@@ -1,0 +1,16 @@
+{
+glyphname = zero.zero;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = zero;
+}
+);
+width = 500;
+}
+);
+metricLeft = zero;
+metricRight = zero;
+}

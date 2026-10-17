@@ -1,0 +1,20 @@
+{
+glyphname = ccaron;
+lastChange = "2019-12-06 18:33:57 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (-52,-127);
+ref = caroncomb;
+}
+);
+width = 500;
+}
+);
+unicode = 269;
+}

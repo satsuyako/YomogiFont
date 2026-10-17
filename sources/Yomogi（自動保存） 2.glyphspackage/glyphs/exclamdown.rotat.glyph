@@ -1,0 +1,18 @@
+{
+glyphname = exclamdown.rotat;
+lastChange = "2019-12-20 09:10:10 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (265,0);
+ref = exclamdown;
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08820;
+}

@@ -1,0 +1,25 @@
+{
+glyphname = Ecircumflexdotbelow;
+lastChange = "2019-12-14 11:45:30 +0000";
+layers = (
+{
+.lastUpdate = 813928576.011;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (-56,51);
+ref = dotbelowcomb.case;
+},
+{
+pos = (22,94);
+ref = circumflexcomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 7878;
+}

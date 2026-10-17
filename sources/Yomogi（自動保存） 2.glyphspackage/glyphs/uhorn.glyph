@@ -1,0 +1,21 @@
+{
+glyphname = uhorn;
+lastChange = "2019-12-14 11:59:27 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (-48,0);
+ref = u;
+},
+{
+pos = (111,-195);
+ref = horncomb;
+}
+);
+width = 500;
+}
+);
+unicode = 432;
+}

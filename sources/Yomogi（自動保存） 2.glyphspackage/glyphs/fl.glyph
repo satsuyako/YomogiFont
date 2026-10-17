@@ -1,0 +1,22 @@
+{
+glyphname = fl;
+lastChange = "2019-12-14 11:27:54 +0000";
+layers = (
+{
+.lastUpdate = 813923564.092;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (142,0);
+ref = f;
+},
+{
+pos = (477,0);
+ref = l;
+}
+);
+width = 1000;
+}
+);
+unicode = 64258;
+}

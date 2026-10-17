@@ -1,0 +1,20 @@
+{
+glyphname = "kesmall-hira.vert";
+lastChange = "2026-10-17 09:54:40 +0000";
+layers = (
+{
+.lastUpdate = 813928532.339;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+alignment = -1;
+pos = (111,100);
+ref = "kesmall-hira";
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid08265;
+}

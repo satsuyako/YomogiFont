@@ -1,0 +1,17 @@
+{
+glyphname = backslash.half;
+lastChange = "2019-12-20 09:10:50 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = backslash;
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid08719;
+}

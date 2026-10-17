@@ -1,0 +1,23 @@
+{
+glyphname = approxequal;
+lastChange = "2019-12-14 11:48:18 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (-64,-364);
+ref = tildecomb;
+scale = (1.065,1);
+},
+{
+pos = (-64,-497);
+ref = tildecomb;
+scale = (1.065,1);
+}
+);
+width = 500;
+}
+);
+unicode = 8776;
+}

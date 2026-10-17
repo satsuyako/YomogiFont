@@ -1,0 +1,20 @@
+{
+glyphname = "kasmall-hira.vert";
+lastChange = "2026-10-17 09:54:07 +0000";
+layers = (
+{
+.lastUpdate = 813928532.027;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+alignment = -1;
+pos = (84,67);
+ref = "kasmall-hira";
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid08264;
+}

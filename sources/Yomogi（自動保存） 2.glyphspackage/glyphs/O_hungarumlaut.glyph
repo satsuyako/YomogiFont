@@ -1,0 +1,21 @@
+{
+glyphname = Ohungarumlaut;
+lastChange = "2019-12-14 11:16:18 +0000";
+layers = (
+{
+.lastUpdate = 813923923.356;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (-26,114);
+ref = hungarumlautcomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 336;
+}

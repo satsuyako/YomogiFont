@@ -1,0 +1,26 @@
+{
+glyphname = commaaccentcomb;
+lastChange = "2019-12-06 18:19:08 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(239,-229,ls),
+(227,-251,o),
+(259,-274,o),
+(279,-246,cs),
+(358,-134,ls),
+(386,-95,o),
+(327,-61,o),
+(301,-111,cs)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 806;
+}

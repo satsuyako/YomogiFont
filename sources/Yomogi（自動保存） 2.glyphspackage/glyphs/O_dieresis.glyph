@@ -1,0 +1,21 @@
+{
+glyphname = Odieresis;
+lastChange = "2019-12-14 11:15:55 +0000";
+layers = (
+{
+.lastUpdate = 813928575.989;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (-56,73);
+ref = dieresiscomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 214;
+}

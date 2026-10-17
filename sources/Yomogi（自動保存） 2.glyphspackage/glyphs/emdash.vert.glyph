@@ -1,0 +1,24 @@
+{
+glyphname = emdash.vert;
+lastChange = "2019-10-23 17:58:41 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(511,859,l),
+(472,856,l),
+(478,-133,l),
+(518,-133,l)
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid07892;
+unicode = 65073;
+}

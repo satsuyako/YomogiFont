@@ -1,0 +1,21 @@
+{
+glyphname = Scircumflex;
+lastChange = "2019-12-14 11:20:07 +0000";
+layers = (
+{
+.lastUpdate = 813923923.358;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (0,91);
+ref = circumflexcomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 348;
+}

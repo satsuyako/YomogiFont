@@ -1,0 +1,30 @@
+{
+displayStrings = (
+"/uni4F56 
+/uni6CCC 
+/uni6BD6 
+/uni7955 
+/uni79D8 
+
+/uni4F56/uni79D8/uni5BC6/.notdef",
+"
+
+
+\"/space-han U+0022\"
+'/space U+0027'
+/quotedblleft U+201C/space U+201D/quotedblright 
+/quoteleft U+2018/space U+2019/quoteright 
+
+1/space +/space 2/space =/space 3/space -/space ~
+
+,.;",
+"/a-hira/asmall-hira.vert/a-hira/ismall-hira.vert/a-hira/tusmall-hira/a-hira/usmall-hira.vert/a-hira/esmall-hira.vert/a-hira/osmall-hira.vert/a-hira/kasmall-hira.vert/a-hira/kesmall-hira.vert/a-hira/tusmall-hira.vert/a-hira/yasmall-hira.vert/a-hira/yusmall-hira.vert/a-hira/yosmall-hira.vert/a-hira/wasmall-hira.vert/a-hira/asmall-kata.vert/a-hira/ismall-kata.vert/a-hira/usmall-kata.vert/a-hira/esmall-kata.vert/a-hira/osmall-kata.vert/a-hira/kasmall-kata.vert/a-hira/kesmall-kata.vert/a-hira/tusmall-kata.vert/a-hira/yasmall-kata.vert/a-hira/yusmall-kata.vert/a-hira/yosmall-kata.vert/a-hira/wasmall-kata.vert/a-hira/comma.full.vert/a-hira/underscore.full.vert/a-hira/colon.full.vert/a-hira/dblverticalbar.vert/a-hira/period.full.vert/a-hira/anglebracketleft.vert/a-hira/anglebracketright.vert/a-hira/blacklenticularbracketleft.vert/a-hira/blacklenticularbracketright.vert/a-hira/braceleft.full.vert/a-hira/braceright.full.vert/a-hira/bracketleft.full.vert/a-hira/bracketright.full.vert/a-hira/cornerbracketleft.vert/a-hira/cornerbracketright.vert/a-hira/dblanglebracketleft.vert/a-hira/dblanglebracketright.vert/a-hira/tortoiseshellbracketleft.vert/a-hira/tortoiseshellbracketright.vert/a-hira/parenleft.full.vert/a-hira/parenright.full.vert/a-hira/whitecornerbracketleft.vert/a-hira/whitecornerbracketright.vert/a-hira/emdash.vert/endash.vert/a-hira/lowquotedoubleprime.full.vert/a-hira/quotedoubleprimeReversed.full.vert/a-hira/comma-han.vert/a-hira/period-han.vert/a-hira/asciitilde.full.vert/a-hira/bar.full.vert/a-hira/equal.full.vert/a-hira/macron.full.vert 
+/a-hira/aaruSquare.vert 
+/a-hira/doruSquare.vert/guramuSquare.vert/hekutaaruSquare.vert/karoriiSquare.vert/kiroSquare.vert/meetoruSquare.vert/miriSquare.vert/miribaaruSquare.vert/paasentoSquare.vert/peeziSquare.vert/rittoruSquare.vert/sentiSquare.vert/sentoSquare.vert/tonSquare.vert/wattoSquare.vert/heiseieraSquare.vert/meizieraSquare.vert/uni32FF.vert/syouwaeraSquare.vert/taisyoueraSquare.vert/prolonged-kana.vert/voiced-kana.vert/semivoiced-kana.vert 
+/uni6B63/iterationmark-han/uni5802/iterationmark-han/to-hira/uni6226/tusmall-hira/te-hira/ku-hira/da-hira/sa-hira/i-hira/exclam.full 
+/su-hira/be-hira/te-hira/ni-hira/o-hira/i-hira/te-hira/pa-kata/prolonged-kana/hu-kata/esmall-kata/ku-kata/to-kata/de-hira/su-hira/exclam.full",
+"/uni6726/aaruSquare.vert/uni6727/ellipsis",
+"/ellipsis",
+"/a-hira/tricolon"
+);
+}

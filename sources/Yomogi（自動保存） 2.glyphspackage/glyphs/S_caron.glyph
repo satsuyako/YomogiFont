@@ -1,0 +1,23 @@
+{
+glyphname = Scaron;
+lastChange = "2019-12-14 11:20:21 +0000";
+layers = (
+{
+.lastUpdate = 813928575.877;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-61,102);
+ref = caroncomb.case;
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00223;
+unicode = 352;
+}

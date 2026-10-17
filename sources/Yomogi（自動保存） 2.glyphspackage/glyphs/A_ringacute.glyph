@@ -1,0 +1,26 @@
+{
+glyphname = Aringacute;
+lastChange = "2019-12-06 18:32:43 +0000";
+layers = (
+{
+.lastUpdate = 813928576.022;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (-52,78);
+ref = ringcomb.case;
+},
+{
+pos = (23,360);
+ref = acutecomb.case;
+scale = (0.9091,0.9091);
+}
+);
+width = 500;
+}
+);
+unicode = 506;
+}

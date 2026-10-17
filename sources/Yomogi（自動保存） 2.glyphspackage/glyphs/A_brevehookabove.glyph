@@ -1,0 +1,25 @@
+{
+glyphname = Abrevehookabove;
+lastChange = "2019-12-14 11:43:42 +0000";
+layers = (
+{
+.lastUpdate = 813928576.014;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (0,145);
+ref = brevecomb.case;
+},
+{
+pos = (-56,203);
+ref = hookabovecomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 7858;
+}

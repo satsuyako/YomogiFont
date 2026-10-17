@@ -1,0 +1,21 @@
+{
+glyphname = Uogonek;
+lastChange = "2019-12-14 11:35:47 +0000";
+layers = (
+{
+.lastUpdate = 813923923.348;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (-14,82);
+ref = ogonekcomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 370;
+}

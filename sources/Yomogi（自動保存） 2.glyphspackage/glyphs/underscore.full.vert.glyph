@@ -1,0 +1,35 @@
+{
+glyphname = underscore.full.vert;
+lastChange = "2026-10-17 09:45:09 +0000";
+layers = (
+{
+.lastUpdate = 813923109.261;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(49,760,ls),
+(49,781,o),
+(40,791,o),
+(26,790,cs),
+(13,789,o),
+(5,780,o),
+(3,762,c),
+(2,-157,l),
+(4,-177,o),
+(11,-186,o),
+(23,-186,cs),
+(36,-186,o),
+(44,-177,o),
+(48,-157,c)
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid07890;
+unicode = 65075;
+}

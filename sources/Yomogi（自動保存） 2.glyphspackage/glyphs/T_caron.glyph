@@ -1,0 +1,20 @@
+{
+glyphname = Tcaron;
+lastChange = "2019-12-14 11:22:17 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (-51,93);
+ref = caroncomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 356;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = numero;
+lastChange = "2019-12-12 15:41:01 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (10,0);
+ref = N;
+},
+{
+pos = (436,0);
+ref = o;
+},
+{
+pos = (851,1);
+ref = period;
+scale = (0.7732,0.7732);
+}
+);
+width = 1000;
+}
+);
+unicode = 8470;
+}

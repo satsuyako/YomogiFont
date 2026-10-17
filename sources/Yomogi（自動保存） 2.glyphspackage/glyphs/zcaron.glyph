@@ -1,0 +1,22 @@
+{
+glyphname = zcaron;
+lastChange = "2019-12-14 11:37:23 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = z;
+},
+{
+pos = (-49,-137);
+ref = caroncomb;
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00229;
+unicode = 382;
+}

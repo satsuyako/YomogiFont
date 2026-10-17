@@ -1,0 +1,21 @@
+{
+glyphname = ohorndotbelow;
+lastChange = "2019-12-14 11:58:40 +0000";
+layers = (
+{
+.lastUpdate = 813928575.861;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (-48,32);
+ref = dotbelowcomb;
+}
+);
+width = 500;
+}
+);
+unicode = 7907;
+}

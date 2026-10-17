@@ -1,0 +1,25 @@
+{
+glyphname = Ocircumflexdotbelow;
+lastChange = "2019-12-14 11:50:48 +0000";
+layers = (
+{
+.lastUpdate = 813928575.998;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (-45,37);
+ref = dotbelowcomb.case;
+},
+{
+pos = (0,95);
+ref = circumflexcomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 7896;
+}

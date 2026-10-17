@@ -1,0 +1,17 @@
+{
+glyphname = yen.rotat;
+lastChange = "2019-12-20 09:09:22 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = yen.full;
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08780;
+}

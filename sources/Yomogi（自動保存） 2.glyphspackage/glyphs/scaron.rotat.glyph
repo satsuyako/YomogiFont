@@ -1,0 +1,24 @@
+{
+glyphname = scaron.rotat;
+lastChange = "2020-12-05 00:17:43 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+angle = -90;
+pos = (141,860);
+ref = s;
+},
+{
+angle = -90;
+pos = (-5,916);
+ref = caroncomb;
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08946;
+}

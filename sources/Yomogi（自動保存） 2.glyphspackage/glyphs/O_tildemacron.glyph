@@ -1,0 +1,24 @@
+{
+glyphname = Otildemacron;
+lastChange = "2019-12-14 11:41:42 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (-48,52);
+ref = tildecomb.case;
+},
+{
+pos = (0,231);
+ref = macroncomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 556;
+}

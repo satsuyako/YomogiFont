@@ -1,0 +1,21 @@
+{
+glyphname = aacute;
+lastChange = "2019-12-06 18:29:47 +0000";
+layers = (
+{
+.lastUpdate = 813923923.35;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (-24,0);
+ref = acutecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 225;
+}

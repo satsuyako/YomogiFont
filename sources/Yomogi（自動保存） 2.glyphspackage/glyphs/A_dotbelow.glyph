@@ -1,0 +1,21 @@
+{
+glyphname = Adotbelow;
+lastChange = "2019-12-06 18:33:01 +0000";
+layers = (
+{
+.lastUpdate = 813928576.023;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (-45,38);
+ref = dotbelowcomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 7840;
+}

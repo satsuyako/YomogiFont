@@ -1,0 +1,30 @@
+{
+glyphname = lslash;
+lastChange = "2026-08-07 18:13:37 +0000";
+layers = (
+{
+.lastUpdate = 813923565.692;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(122,336,ls),
+(87,315,o),
+(108,282,o),
+(140,301,cs),
+(377,441,ls),
+(411,461,o),
+(392,497,o),
+(357,476,cs)
+);
+},
+{
+ref = l;
+}
+);
+width = 500;
+}
+);
+unicode = 322;
+}

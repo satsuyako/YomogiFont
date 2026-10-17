@@ -1,0 +1,21 @@
+{
+glyphname = ahookabove;
+lastChange = "2019-12-14 11:55:42 +0000";
+layers = (
+{
+.lastUpdate = 813928575.882;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (-113,-83);
+ref = hookabovecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 7843;
+}

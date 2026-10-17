@@ -1,0 +1,25 @@
+{
+glyphname = uni2162;
+lastChange = "2019-12-09 18:05:30 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (451,0);
+ref = I;
+},
+{
+pos = (249,0);
+ref = I;
+},
+{
+pos = (51,0);
+ref = I;
+}
+);
+width = 1000;
+}
+);
+unicode = 8546;
+}

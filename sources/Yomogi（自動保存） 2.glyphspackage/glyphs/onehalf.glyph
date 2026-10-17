@@ -1,0 +1,25 @@
+{
+glyphname = onehalf;
+lastChange = "2019-12-20 08:58:34 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (-20,0);
+ref = fraction;
+},
+{
+pos = (-114,0);
+ref = onesuperior;
+},
+{
+pos = (204,-427);
+ref = twosuperior;
+}
+);
+width = 600;
+}
+);
+unicode = 189;
+}

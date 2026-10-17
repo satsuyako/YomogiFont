@@ -1,0 +1,25 @@
+{
+glyphname = odotaccentmacron;
+lastChange = "2019-12-14 11:42:13 +0000";
+layers = (
+{
+.lastUpdate = 813928575.888;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (-43,-178);
+ref = dotaccentcomb;
+},
+{
+pos = (-42,-92);
+ref = macroncomb;
+}
+);
+width = 500;
+}
+);
+unicode = 561;
+}

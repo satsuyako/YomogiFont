@@ -1,0 +1,21 @@
+{
+glyphname = tcedilla;
+lastChange = "2019-12-14 11:22:36 +0000";
+layers = (
+{
+.lastUpdate = 813928575.888;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (30,27);
+ref = cedillacomb;
+}
+);
+width = 500;
+}
+);
+unicode = 355;
+}

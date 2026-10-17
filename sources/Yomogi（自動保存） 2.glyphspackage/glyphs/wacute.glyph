@@ -1,0 +1,21 @@
+{
+glyphname = wacute;
+lastChange = "2019-12-14 11:36:04 +0000";
+layers = (
+{
+.lastUpdate = 813928575.883;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (0,-85);
+ref = acutecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 7811;
+}

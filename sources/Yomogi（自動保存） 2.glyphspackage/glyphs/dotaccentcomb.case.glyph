@@ -1,0 +1,42 @@
+{
+glyphname = dotaccentcomb.case;
+lastChange = "2020-12-05 00:07:21 +0000";
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,10);
+target = (0,4);
+type = Stem;
+},
+{
+origin = (0,7);
+target = (0,1);
+type = Stem;
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(352,715,o),
+(352,745,cs),
+(352,770,o),
+(335,793,o),
+(302,793,cs),
+(272,793,o),
+(248,774,o),
+(248,741,cs),
+(248,713,o),
+(273,694,o),
+(299,694,cs),
+(333,694,o)
+);
+}
+);
+width = 600;
+}
+);
+}

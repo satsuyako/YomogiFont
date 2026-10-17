@@ -1,0 +1,26 @@
+{
+glyphname = oe;
+lastChange = "2020-11-17 06:36:13 +0000";
+layers = (
+{
+.lastUpdate = 813928575.869;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (-19,0);
+ref = o;
+scale = (0.6248,1);
+},
+{
+pos = (207,0);
+ref = e;
+scale = (0.6248,1);
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00149;
+unicode = 339;
+}

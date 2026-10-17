@@ -1,0 +1,15 @@
+{
+glyphname = three.lf;
+lastChange = "2019-12-06 18:43:28 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = three;
+}
+);
+width = 500;
+}
+);
+}

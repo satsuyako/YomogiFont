@@ -1,0 +1,26 @@
+{
+glyphname = Ocircumflexgrave;
+lastChange = "2019-12-14 11:50:53 +0000";
+layers = (
+{
+.lastUpdate = 813928575.987;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (0,94);
+ref = circumflexcomb.case;
+},
+{
+pos = (141,330);
+ref = gravecomb.case;
+scale = (0.8333,0.8333);
+}
+);
+width = 500;
+}
+);
+unicode = 7890;
+}

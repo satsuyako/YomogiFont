@@ -1,0 +1,21 @@
+{
+glyphname = nj;
+lastChange = "2019-12-14 11:25:42 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (72,0);
+ref = n;
+},
+{
+pos = (419,-10);
+ref = j;
+}
+);
+width = 1000;
+}
+);
+unicode = 460;
+}

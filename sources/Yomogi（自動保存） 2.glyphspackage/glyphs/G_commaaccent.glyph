@@ -1,0 +1,21 @@
+{
+glyphname = Gcommaaccent;
+lastChange = "2019-12-06 18:47:46 +0000";
+layers = (
+{
+.lastUpdate = 813928576.003;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = G;
+},
+{
+pos = (-56,55);
+ref = commaaccentcomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 290;
+}

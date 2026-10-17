@@ -1,0 +1,20 @@
+{
+glyphname = trademark;
+lastChange = "2019-10-24 16:33:51 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (500,0);
+ref = M;
+}
+);
+width = 1000;
+}
+);
+unicode = 8482;
+}

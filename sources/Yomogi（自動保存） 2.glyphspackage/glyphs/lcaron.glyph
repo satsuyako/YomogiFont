@@ -1,0 +1,30 @@
+{
+glyphname = lcaron;
+lastChange = "2026-08-07 18:14:44 +0000";
+layers = (
+{
+.lastUpdate = 813928575.856;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(360,592,ls),
+(358,567,o),
+(391,555,o),
+(398,588,cs),
+(425,720,ls),
+(434,765,o),
+(377,780,o),
+(372,723,cs)
+);
+},
+{
+ref = l;
+}
+);
+width = 500;
+}
+);
+unicode = 318;
+}

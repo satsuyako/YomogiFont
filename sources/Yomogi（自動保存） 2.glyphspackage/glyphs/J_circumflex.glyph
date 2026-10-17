@@ -1,0 +1,21 @@
+{
+glyphname = Jcircumflex;
+lastChange = "2019-12-06 18:58:53 +0000";
+layers = (
+{
+.lastUpdate = 813928575.874;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = J;
+},
+{
+pos = (43,106);
+ref = circumflexcomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 308;
+}

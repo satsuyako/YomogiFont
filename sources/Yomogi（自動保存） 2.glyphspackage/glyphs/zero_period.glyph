@@ -1,0 +1,22 @@
+{
+glyphname = zero_period;
+lastChange = "2019-12-09 18:23:28 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (631,-4);
+ref = period;
+},
+{
+pos = (-63,0);
+ref = zero.full;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid08061;
+}

@@ -6,7 +6,7 @@ components = (
 {
 alignment = -1;
 name = "kasmall-hira";
-transform = "{1, 0, 0, 1, 84, 158}";
+transform = "{1, 0, 0, 1, 84, 67}";
 }
 );
 layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";

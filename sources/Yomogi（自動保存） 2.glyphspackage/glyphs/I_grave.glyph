@@ -1,0 +1,21 @@
+{
+glyphname = Igrave;
+lastChange = "2019-12-06 18:54:54 +0000";
+layers = (
+{
+.lastUpdate = 813928576.006;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (33,142);
+ref = gravecomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 204;
+}

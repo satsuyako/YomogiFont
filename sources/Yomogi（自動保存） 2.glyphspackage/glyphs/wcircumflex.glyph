@@ -1,0 +1,20 @@
+{
+glyphname = wcircumflex;
+lastChange = "2019-12-14 11:36:19 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (-51,-159);
+ref = circumflexcomb;
+}
+);
+width = 500;
+}
+);
+unicode = 373;
+}

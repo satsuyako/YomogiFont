@@ -1,0 +1,20 @@
+{
+glyphname = edotbelow;
+lastChange = "2019-12-06 18:46:40 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (-57,24);
+ref = dotbelowcomb;
+}
+);
+width = 500;
+}
+);
+unicode = 7865;
+}

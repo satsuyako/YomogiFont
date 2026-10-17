@@ -1,0 +1,24 @@
+{
+glyphname = ocircumflexhookabove;
+lastChange = "2019-12-14 11:57:26 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (-50,-142);
+ref = circumflexcomb;
+},
+{
+pos = (40,-37);
+ref = hookabovecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 7893;
+}

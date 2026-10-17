@@ -1,0 +1,25 @@
+{
+glyphname = Ydieresis.rotat;
+lastChange = "2020-12-05 00:18:04 +0000";
+layers = (
+{
+.lastUpdate = 813928575.883;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+angle = -90;
+pos = (141,859);
+ref = Y;
+},
+{
+angle = -90;
+pos = (189,904);
+ref = dieresiscomb.case;
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08943;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Gdotaccent;
+lastChange = "2019-12-06 18:47:34 +0000";
+layers = (
+{
+.lastUpdate = 813928575.991;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = G;
+},
+{
+pos = (-28,60);
+ref = dotaccentcomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 288;
+}

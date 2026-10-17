@@ -1,0 +1,21 @@
+{
+glyphname = ldot;
+lastChange = "2026-08-07 18:23:51 +0000";
+layers = (
+{
+.lastUpdate = 813923565.691;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (200,46);
+ref = periodcentered;
+}
+);
+width = 500;
+}
+);
+unicode = 320;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Ihookabove;
+lastChange = "2019-12-14 11:56:34 +0000";
+layers = (
+{
+.lastUpdate = 813928575.984;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-54,101);
+ref = hookabovecomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 7880;
+}

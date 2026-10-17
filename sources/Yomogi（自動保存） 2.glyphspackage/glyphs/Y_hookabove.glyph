@@ -1,0 +1,20 @@
+{
+glyphname = Yhookabove;
+lastChange = "2019-12-14 11:53:17 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (-52,53);
+ref = hookabovecomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 7926;
+}

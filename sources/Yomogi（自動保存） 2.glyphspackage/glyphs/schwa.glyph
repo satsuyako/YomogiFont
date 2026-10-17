@@ -1,0 +1,18 @@
+{
+glyphname = schwa;
+lastChange = "2019-12-14 11:38:59 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+angle = 180;
+pos = (508,481);
+ref = e;
+}
+);
+width = 500;
+}
+);
+unicode = 601;
+}

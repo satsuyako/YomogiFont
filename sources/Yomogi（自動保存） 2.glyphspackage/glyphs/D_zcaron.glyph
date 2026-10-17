@@ -1,0 +1,26 @@
+{
+glyphname = Dzcaron;
+lastChange = "2020-12-05 00:16:41 +0000";
+layers = (
+{
+.lastUpdate = 813928575.983;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (40,0);
+ref = D;
+},
+{
+pos = (486,0);
+ref = z;
+},
+{
+pos = (437,-137);
+ref = caroncomb;
+}
+);
+width = 1000;
+}
+);
+unicode = 453;
+}

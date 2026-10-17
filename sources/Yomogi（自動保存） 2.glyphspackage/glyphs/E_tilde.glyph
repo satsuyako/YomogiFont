@@ -1,0 +1,21 @@
+{
+glyphname = Etilde;
+lastChange = "2019-12-06 18:45:56 +0000";
+layers = (
+{
+.lastUpdate = 813928576.026;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (-34,71);
+ref = tildecomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 7868;
+}

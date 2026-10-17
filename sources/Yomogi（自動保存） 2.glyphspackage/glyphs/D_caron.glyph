@@ -1,0 +1,21 @@
+{
+glyphname = Dcaron;
+lastChange = "2019-12-06 19:01:21 +0000";
+layers = (
+{
+.lastUpdate = 813928576.024;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (-70,115);
+ref = caroncomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 270;
+}

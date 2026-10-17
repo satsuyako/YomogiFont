@@ -1,0 +1,21 @@
+{
+glyphname = Einvertedbreve;
+lastChange = "2019-12-14 11:39:48 +0000";
+layers = (
+{
+.lastUpdate = 813928575.992;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (0,136);
+ref = breveinvertedcomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 518;
+}

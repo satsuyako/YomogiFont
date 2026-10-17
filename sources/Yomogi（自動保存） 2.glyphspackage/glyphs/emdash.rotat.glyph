@@ -1,0 +1,23 @@
+{
+glyphname = emdash.rotat;
+lastChange = "2019-10-23 18:00:38 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(381,-141,l),
+(437,-141,l),
+(437,857,l),
+(381,857,l)
+);
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08857;
+}

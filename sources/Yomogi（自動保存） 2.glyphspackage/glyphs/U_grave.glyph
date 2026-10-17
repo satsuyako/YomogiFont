@@ -1,0 +1,21 @@
+{
+glyphname = Ugrave;
+lastChange = "2019-12-14 11:34:30 +0000";
+layers = (
+{
+.lastUpdate = 813923923.362;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (48,93);
+ref = gravecomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 217;
+}

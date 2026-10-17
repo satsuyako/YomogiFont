@@ -1,0 +1,20 @@
+{
+glyphname = oslashacute;
+lastChange = "2019-12-14 11:18:36 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = oslash;
+},
+{
+pos = (10,-58);
+ref = acutecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 511;
+}

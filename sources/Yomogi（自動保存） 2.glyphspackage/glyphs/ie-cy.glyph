@@ -1,0 +1,19 @@
+{
+glyphname = "ie-cy";
+lastChange = "2020-11-17 06:53:59 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+pos = (247,2);
+ref = e;
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid01097;
+unicode = 1077;
+}

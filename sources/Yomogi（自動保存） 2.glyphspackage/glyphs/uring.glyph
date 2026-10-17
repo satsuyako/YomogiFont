@@ -1,0 +1,20 @@
+{
+glyphname = uring;
+lastChange = "2019-12-14 11:35:17 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (-48,-145);
+ref = ringcomb;
+}
+);
+width = 500;
+}
+);
+unicode = 367;
+}

@@ -1,0 +1,25 @@
+{
+glyphname = ocircumflexacute;
+lastChange = "2019-12-14 11:56:56 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (-43,-143);
+ref = circumflexcomb;
+},
+{
+pos = (169,145);
+ref = acutecomb;
+scale = (0.8333,0.8333);
+}
+);
+width = 500;
+}
+);
+unicode = 7889;
+}

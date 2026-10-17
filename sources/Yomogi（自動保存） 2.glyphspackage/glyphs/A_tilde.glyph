@@ -1,0 +1,21 @@
+{
+glyphname = Atilde;
+lastChange = "2019-12-06 18:30:59 +0000";
+layers = (
+{
+.lastUpdate = 813928575.886;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (-44,76);
+ref = tildecomb.case;
+}
+);
+width = 500;
+}
+);
+unicode = 195;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = quotedblleft.rotat;
+lastChange = "2019-12-09 14:09:54 +0000";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+angle = -90;
+pos = (-136,900);
+ref = quotedblleft;
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08827;
+}

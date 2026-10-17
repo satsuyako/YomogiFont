@@ -1,0 +1,1001 @@
+{
+.appVersion = "3532";
+.storedFileType = com.glyphsapp.glyphspackage;
+.formatVersion = 3;
+.storedFormatVersion = 1;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+classes = (
+{
+automatic = 1;
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZcaron Dcaron Dcroat Dzcaron Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde Schwa F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I Iacute Ibreve Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M N NJ Nacute Ncaron Ncommaaccent Nj Ntilde Eng O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent A.full B.full C.full D.full E.full F.full G.full H.full I.full J.full K.full L.full M.full N.full O.full P.full Q.full R.full S.full T.full U.full V.full W.full X.full Y.full Z.full A.rotat Aring.rotat B.rotat C.rotat D.rotat E.rotat F.rotat G.rotat H.rotat I.rotat J.rotat K.rotat L.rotat M.rotat N.rotat O.rotat OE.rotat P.rotat Q.rotat R.rotat S.rotat Scaron.rotat T.rotat U.rotat V.rotat W.rotat X.rotat Y.rotat Ydieresis.rotat Z.rotat Zcaron.rotat A-cy Be-cy Ve-cy Ge-cy De-cy Ie-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Ka-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Softsign-cy Yeru-cy Hardsign-cy Ereversed-cy Iu-cy Ia-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega";
+name = Uppercase;
+}
+);
+customParameters = (
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Export vmtx Table";
+value = 1;
+},
+{
+name = ROS;
+value = "Adobe-Identity-0";
+}
+);
+date = "2026-10-17 09:00:52 +0000";
+familyName = Yomogi;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature sups;
+feature frac;
+feature ordn;
+feature pnum;
+feature tnum;
+feature case;
+feature zero;
+feature fwid;
+feature hwid;
+feature vert;
+feature vkna;
+feature vrt2;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
+
+lookup ccmp_Other_1 {
+	lookupflag 0;
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb dotbelowcomb dieresisbelowcomb commaaccentcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case brevebelowcomb.case macronbelowcomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	lookupflag 0;
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub fi by f i;
+	sub fl by f l;
+	sub Ldot by L periodcentered.loclCAT.case;
+	sub ldot by l periodcentered.loclCAT;
+	sub lj by l j;
+	sub Lj by L j;
+	sub LJ by L J;
+	sub nj by n j;
+	sub Nj by N j;
+	sub NJ by N J;
+	sub dzcaron by d zcaron;
+	sub Dzcaron by D zcaron;
+	sub DZcaron by D Zcaron;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+language MOL;
+lookup locl_latn_1;
+
+script latn;
+language CAT;
+lookup locl_latn_2 {
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_2;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+";
+tag = pnum;
+},
+{
+automatic = 1;
+code = "sub zero.lf by zero;
+sub one.lf by one;
+sub two.lf by two;
+sub three.lf by three;
+sub four.lf by four;
+sub five.lf by five;
+sub six.lf by six;
+sub seven.lf by seven;
+sub eight.lf by eight;
+sub nine.lf by nine;
+";
+tag = tnum;
+},
+{
+automatic = 1;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+sub hookabovecomb by hookabovecomb.case;
+sub dblgravecomb by dblgravecomb.case;
+sub breveinvertedcomb by breveinvertedcomb.case;
+sub commaturnedabovecomb by commaturnedabovecomb.case;
+sub horncomb by horncomb.case;
+sub dotbelowcomb by dotbelowcomb.case;
+sub dieresisbelowcomb by dieresisbelowcomb.case;
+sub commaaccentcomb by commaaccentcomb.case;
+sub cedillacomb by cedillacomb.case;
+sub ogonekcomb by ogonekcomb.case;
+sub brevebelowcomb by brevebelowcomb.case;
+sub macronbelowcomb by macronbelowcomb.case;
+";
+tag = case;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+";
+tag = liga;
+},
+{
+automatic = 1;
+code = "sub zero by zero.zero;
+";
+tag = zero;
+},
+{
+automatic = 1;
+code = "sub A by A.full;
+sub B by B.full;
+sub C by C.full;
+sub D by D.full;
+sub E by E.full;
+sub F by F.full;
+sub G by G.full;
+sub H by H.full;
+sub I by I.full;
+sub J by J.full;
+sub K by K.full;
+sub L by L.full;
+sub M by M.full;
+sub N by N.full;
+sub O by O.full;
+sub P by P.full;
+sub Q by Q.full;
+sub R by R.full;
+sub S by S.full;
+sub T by T.full;
+sub U by U.full;
+sub V by V.full;
+sub W by W.full;
+sub X by X.full;
+sub Y by Y.full;
+sub Z by Z.full;
+sub a by a.full;
+sub b by b.full;
+sub c by c.full;
+sub d by d.full;
+sub e by e.full;
+sub f by f.full;
+sub g by g.full;
+sub h by h.full;
+sub i by i.full;
+sub j by j.full;
+sub k by k.full;
+sub l by l.full;
+sub m by m.full;
+sub n by n.full;
+sub o by o.full;
+sub p by p.full;
+sub q by q.full;
+sub r by r.full;
+sub s by s.full;
+sub t by t.full;
+sub u by u.full;
+sub v by v.full;
+sub w by w.full;
+sub x by x.full;
+sub y by y.full;
+sub z by z.full;
+sub zero by zero.full;
+sub one by one.full;
+sub two by two.full;
+sub three by three.full;
+sub four by four.full;
+sub five by five.full;
+sub six by six.full;
+sub seven by seven.full;
+sub eight by eight.full;
+sub nine by nine.full;
+sub ampersand by ampersand.full;
+sub asterisk by asterisk.full;
+sub at by at.full;
+sub backslash by backslash.full;
+sub colon by colon.full;
+sub comma by comma.full;
+sub exclam by exclam.full;
+sub numbersign by numbersign.full;
+sub percent by percent.full;
+sub period by period.full;
+sub question by question.full;
+sub semicolon by semicolon.full;
+sub slash by slash.full;
+sub underscore by underscore.full;
+sub hyphen by hyphen.full;
+sub braceleft by braceleft.full;
+sub braceright by braceright.full;
+sub bracketleft by bracketleft.full;
+sub bracketright by bracketright.full;
+sub parenleft by parenleft.full;
+sub parenright by parenright.full;
+sub quotedblbase by quotedblbase.full;
+sub asciicircum by asciicircum.full;
+sub grave by grave.full;
+sub macron by macron.full;
+sub brokenbar by brokenbar.full;
+sub cent by cent.full;
+sub dollar by dollar.full;
+sub sterling by sterling.full;
+sub yen by yen.full;
+sub asciitilde by asciitilde.full;
+sub bar by bar.full;
+sub equal by equal.full;
+sub greater by greater.full;
+sub less by less.full;
+sub plus by plus.full;
+";
+tag = fwid;
+},
+{
+automatic = 1;
+code = "sub space by enspace;
+sub a-kata by a-kata.half;
+sub asmall-kata by asmall-kata.half;
+sub i-kata by i-kata.half;
+sub ismall-kata by ismall-kata.half;
+sub u-kata by u-kata.half;
+sub usmall-kata by usmall-kata.half;
+sub e-kata by e-kata.half;
+sub esmall-kata by esmall-kata.half;
+sub o-kata by o-kata.half;
+sub osmall-kata by osmall-kata.half;
+sub ka-kata by ka-kata.half;
+sub ki-kata by ki-kata.half;
+sub ku-kata by ku-kata.half;
+sub ke-kata by ke-kata.half;
+sub ko-kata by ko-kata.half;
+sub sa-kata by sa-kata.half;
+sub si-kata by si-kata.half;
+sub su-kata by su-kata.half;
+sub se-kata by se-kata.half;
+sub so-kata by so-kata.half;
+sub ta-kata by ta-kata.half;
+sub ti-kata by ti-kata.half;
+sub tu-kata by tu-kata.half;
+sub tusmall-kata by tusmall-kata.half;
+sub te-kata by te-kata.half;
+sub to-kata by to-kata.half;
+sub na-kata by na-kata.half;
+sub ni-kata by ni-kata.half;
+sub nu-kata by nu-kata.half;
+sub ne-kata by ne-kata.half;
+sub no-kata by no-kata.half;
+sub ha-kata by ha-kata.half;
+sub hi-kata by hi-kata.half;
+sub hu-kata by hu-kata.half;
+sub he-kata by he-kata.half;
+sub ho-kata by ho-kata.half;
+sub ma-kata by ma-kata.half;
+sub mi-kata by mi-kata.half;
+sub mu-kata by mu-kata.half;
+sub me-kata by me-kata.half;
+sub mo-kata by mo-kata.half;
+sub ya-kata by ya-kata.half;
+sub yasmall-kata by yasmall-kata.half;
+sub yu-kata by yu-kata.half;
+sub yusmall-kata by yusmall-kata.half;
+sub yo-kata by yo-kata.half;
+sub yosmall-kata by yosmall-kata.half;
+sub ra-kata by ra-kata.half;
+sub ri-kata by ri-kata.half;
+sub ru-kata by ru-kata.half;
+sub re-kata by re-kata.half;
+sub ro-kata by ro-kata.half;
+sub wa-kata by wa-kata.half;
+sub wo-kata by wo-kata.half;
+sub n-kata by n-kata.half;
+sub comma-han by comma-han.half;
+sub period-han by period-han.half;
+sub backslash by backslash.half;
+sub cornerbracketleft by cornerbracketleft.half;
+sub cornerbracketright by cornerbracketright.half;
+sub voiced-kana by voiced-kana.half;
+sub semivoiced-kana by semivoiced-kana.half;
+sub prolonged-kana by prolonged-kana.half;
+";
+tag = hwid;
+},
+{
+automatic = 1;
+code = "sub asmall-hira by asmall-hira.vert;
+sub ismall-hira by ismall-hira.vert;
+sub usmall-hira by usmall-hira.vert;
+sub esmall-hira by esmall-hira.vert;
+sub osmall-hira by osmall-hira.vert;
+sub kasmall-hira by kasmall-hira.vert;
+sub kesmall-hira by kesmall-hira.vert;
+sub tusmall-hira by tusmall-hira.vert;
+sub yasmall-hira by yasmall-hira.vert;
+sub yusmall-hira by yusmall-hira.vert;
+sub yosmall-hira by yosmall-hira.vert;
+sub wasmall-hira by wasmall-hira.vert;
+sub asmall-kata by asmall-kata.vert;
+sub ismall-kata by ismall-kata.vert;
+sub usmall-kata by usmall-kata.vert;
+sub esmall-kata by esmall-kata.vert;
+sub osmall-kata by osmall-kata.vert;
+sub kasmall-kata by kasmall-kata.vert;
+sub kesmall-kata by kesmall-kata.vert;
+sub tusmall-kata by tusmall-kata.vert;
+sub yasmall-kata by yasmall-kata.vert;
+sub yusmall-kata by yusmall-kata.vert;
+sub yosmall-kata by yosmall-kata.vert;
+sub wasmall-kata by wasmall-kata.vert;
+sub comma-han by comma-han.vert;
+sub period-han by period-han.vert;
+sub ellipsis by ellipsis.vert;
+sub dblverticalbar by dblverticalbar.vert;
+sub comma.full by comma.full.vert;
+sub underscore.full by underscore.full.vert;
+sub colon.full by colon.full.vert;
+sub period.full by period.full.vert;
+sub emdash by emdash.vert;
+sub endash by endash.vert;
+sub anglebracketleft by anglebracketleft.vert;
+sub anglebracketright by anglebracketright.vert;
+sub blacklenticularbracketleft by blacklenticularbracketleft.vert;
+sub blacklenticularbracketright by blacklenticularbracketright.vert;
+sub cornerbracketleft by cornerbracketleft.vert;
+sub cornerbracketright by cornerbracketright.vert;
+sub dblanglebracketleft by dblanglebracketleft.vert;
+sub dblanglebracketright by dblanglebracketright.vert;
+sub tortoiseshellbracketleft by tortoiseshellbracketleft.vert;
+sub tortoiseshellbracketright by tortoiseshellbracketright.vert;
+sub whitecornerbracketleft by whitecornerbracketleft.vert;
+sub whitecornerbracketright by whitecornerbracketright.vert;
+sub braceleft.full by braceleft.full.vert;
+sub braceright.full by braceright.full.vert;
+sub bracketleft.full by bracketleft.full.vert;
+sub bracketright.full by bracketright.full.vert;
+sub parenleft.full by parenleft.full.vert;
+sub parenright.full by parenright.full.vert;
+sub heiseieraSquare by heiseieraSquare.vert;
+sub meizieraSquare by meizieraSquare.vert;
+sub uni32FF by uni32FF.vert;
+sub syouwaeraSquare by syouwaeraSquare.vert;
+sub taisyoueraSquare by taisyoueraSquare.vert;
+sub aaruSquare by aaruSquare.vert;
+sub doruSquare by doruSquare.vert;
+sub guramuSquare by guramuSquare.vert;
+sub hekutaaruSquare by hekutaaruSquare.vert;
+sub karoriiSquare by karoriiSquare.vert;
+sub kiroSquare by kiroSquare.vert;
+sub meetoruSquare by meetoruSquare.vert;
+sub miriSquare by miriSquare.vert;
+sub miribaaruSquare by miribaaruSquare.vert;
+sub paasentoSquare by paasentoSquare.vert;
+sub peeziSquare by peeziSquare.vert;
+sub rittoruSquare by rittoruSquare.vert;
+sub sentiSquare by sentiSquare.vert;
+sub sentoSquare by sentoSquare.vert;
+sub tonSquare by tonSquare.vert;
+sub wattoSquare by wattoSquare.vert;
+sub macron.full by macron.full.vert;
+sub asciitilde.full by asciitilde.full.vert;
+sub bar.full by bar.full.vert;
+sub equal.full by equal.full.vert;
+sub voiced-kana by voiced-kana.vert;
+sub semivoiced-kana by semivoiced-kana.vert;
+sub prolonged-kana by prolonged-kana.vert;
+";
+tag = vert;
+},
+{
+automatic = 1;
+code = "sub asmall-hira by asmall-hira.vert;
+sub ismall-hira by ismall-hira.vert;
+sub usmall-hira by usmall-hira.vert;
+sub esmall-hira by esmall-hira.vert;
+sub osmall-hira by osmall-hira.vert;
+sub kasmall-hira by kasmall-hira.vert;
+sub kesmall-hira by kesmall-hira.vert;
+sub tusmall-hira by tusmall-hira.vert;
+sub yasmall-hira by yasmall-hira.vert;
+sub yusmall-hira by yusmall-hira.vert;
+sub yosmall-hira by yosmall-hira.vert;
+sub wasmall-hira by wasmall-hira.vert;
+sub asmall-kata by asmall-kata.vert;
+sub ismall-kata by ismall-kata.vert;
+sub usmall-kata by usmall-kata.vert;
+sub esmall-kata by esmall-kata.vert;
+sub osmall-kata by osmall-kata.vert;
+sub kasmall-kata by kasmall-kata.vert;
+sub kesmall-kata by kesmall-kata.vert;
+sub tusmall-kata by tusmall-kata.vert;
+sub yasmall-kata by yasmall-kata.vert;
+sub yusmall-kata by yusmall-kata.vert;
+sub yosmall-kata by yosmall-kata.vert;
+sub wasmall-kata by wasmall-kata.vert;
+";
+tag = vkna;
+},
+{
+automatic = 1;
+code = "sub asmall-hira by asmall-hira.vert;
+sub ismall-hira by ismall-hira.vert;
+sub usmall-hira by usmall-hira.vert;
+sub esmall-hira by esmall-hira.vert;
+sub osmall-hira by osmall-hira.vert;
+sub kasmall-hira by kasmall-hira.vert;
+sub kesmall-hira by kesmall-hira.vert;
+sub tusmall-hira by tusmall-hira.vert;
+sub yasmall-hira by yasmall-hira.vert;
+sub yusmall-hira by yusmall-hira.vert;
+sub yosmall-hira by yosmall-hira.vert;
+sub wasmall-hira by wasmall-hira.vert;
+sub asmall-kata by asmall-kata.vert;
+sub ismall-kata by ismall-kata.vert;
+sub usmall-kata by usmall-kata.vert;
+sub esmall-kata by esmall-kata.vert;
+sub osmall-kata by osmall-kata.vert;
+sub kasmall-kata by kasmall-kata.vert;
+sub kesmall-kata by kesmall-kata.vert;
+sub tusmall-kata by tusmall-kata.vert;
+sub yasmall-kata by yasmall-kata.vert;
+sub yusmall-kata by yusmall-kata.vert;
+sub yosmall-kata by yosmall-kata.vert;
+sub wasmall-kata by wasmall-kata.vert;
+sub comma-han by comma-han.vert;
+sub period-han by period-han.vert;
+sub ellipsis by ellipsis.vert;
+sub dblverticalbar by dblverticalbar.vert;
+sub comma.full by comma.full.vert;
+sub underscore.full by underscore.full.vert;
+sub colon.full by colon.full.vert;
+sub period.full by period.full.vert;
+sub emdash by emdash.vert;
+sub endash by endash.vert;
+sub anglebracketleft by anglebracketleft.vert;
+sub anglebracketright by anglebracketright.vert;
+sub blacklenticularbracketleft by blacklenticularbracketleft.vert;
+sub blacklenticularbracketright by blacklenticularbracketright.vert;
+sub cornerbracketleft by cornerbracketleft.vert;
+sub cornerbracketright by cornerbracketright.vert;
+sub dblanglebracketleft by dblanglebracketleft.vert;
+sub dblanglebracketright by dblanglebracketright.vert;
+sub tortoiseshellbracketleft by tortoiseshellbracketleft.vert;
+sub tortoiseshellbracketright by tortoiseshellbracketright.vert;
+sub whitecornerbracketleft by whitecornerbracketleft.vert;
+sub whitecornerbracketright by whitecornerbracketright.vert;
+sub braceleft.full by braceleft.full.vert;
+sub braceright.full by braceright.full.vert;
+sub bracketleft.full by bracketleft.full.vert;
+sub bracketright.full by bracketright.full.vert;
+sub parenleft.full by parenleft.full.vert;
+sub parenright.full by parenright.full.vert;
+sub heiseieraSquare by heiseieraSquare.vert;
+sub meizieraSquare by meizieraSquare.vert;
+sub uni32FF by uni32FF.vert;
+sub syouwaeraSquare by syouwaeraSquare.vert;
+sub taisyoueraSquare by taisyoueraSquare.vert;
+sub aaruSquare by aaruSquare.vert;
+sub doruSquare by doruSquare.vert;
+sub guramuSquare by guramuSquare.vert;
+sub hekutaaruSquare by hekutaaruSquare.vert;
+sub karoriiSquare by karoriiSquare.vert;
+sub kiroSquare by kiroSquare.vert;
+sub meetoruSquare by meetoruSquare.vert;
+sub miriSquare by miriSquare.vert;
+sub miribaaruSquare by miribaaruSquare.vert;
+sub paasentoSquare by paasentoSquare.vert;
+sub peeziSquare by peeziSquare.vert;
+sub rittoruSquare by rittoruSquare.vert;
+sub sentiSquare by sentiSquare.vert;
+sub sentoSquare by sentoSquare.vert;
+sub tonSquare by tonSquare.vert;
+sub wattoSquare by wattoSquare.vert;
+sub macron.full by macron.full.vert;
+sub asciitilde.full by asciitilde.full.vert;
+sub bar.full by bar.full.vert;
+sub equal.full by equal.full.vert;
+sub voiced-kana by voiced-kana.vert;
+sub semivoiced-kana by semivoiced-kana.vert;
+sub prolonged-kana by prolonged-kana.vert;
+sub A by A.rotat;
+sub Aring by Aring.rotat;
+sub B by B.rotat;
+sub C by C.rotat;
+sub D by D.rotat;
+sub E by E.rotat;
+sub F by F.rotat;
+sub G by G.rotat;
+sub H by H.rotat;
+sub I by I.rotat;
+sub J by J.rotat;
+sub K by K.rotat;
+sub L by L.rotat;
+sub M by M.rotat;
+sub N by N.rotat;
+sub O by O.rotat;
+sub OE by OE.rotat;
+sub P by P.rotat;
+sub Q by Q.rotat;
+sub R by R.rotat;
+sub S by S.rotat;
+sub Scaron by Scaron.rotat;
+sub T by T.rotat;
+sub U by U.rotat;
+sub V by V.rotat;
+sub W by W.rotat;
+sub X by X.rotat;
+sub Y by Y.rotat;
+sub Ydieresis by Ydieresis.rotat;
+sub Z by Z.rotat;
+sub Zcaron by Zcaron.rotat;
+sub a by a.rotat;
+sub b by b.rotat;
+sub c by c.rotat;
+sub d by d.rotat;
+sub e by e.rotat;
+sub f by f.rotat;
+sub g by g.rotat;
+sub h by h.rotat;
+sub i by i.rotat;
+sub j by j.rotat;
+sub k by k.rotat;
+sub l by l.rotat;
+sub m by m.rotat;
+sub n by n.rotat;
+sub o by o.rotat;
+sub oe by oe.rotat;
+sub p by p.rotat;
+sub q by q.rotat;
+sub r by r.rotat;
+sub s by s.rotat;
+sub scaron by scaron.rotat;
+sub t by t.rotat;
+sub u by u.rotat;
+sub v by v.rotat;
+sub w by w.rotat;
+sub x by x.rotat;
+sub y by y.rotat;
+sub z by z.rotat;
+sub zcaron by zcaron.rotat;
+sub a-kata.half by a-kata.half.rotat;
+sub asmall-kata.half by asmall-kata.half.rotat;
+sub i-kata.half by i-kata.half.rotat;
+sub ismall-kata.half by ismall-kata.half.rotat;
+sub u-kata.half by u-kata.half.rotat;
+sub usmall-kata.half by usmall-kata.half.rotat;
+sub e-kata.half by e-kata.half.rotat;
+sub esmall-kata.half by esmall-kata.half.rotat;
+sub o-kata.half by o-kata.half.rotat;
+sub osmall-kata.half by osmall-kata.half.rotat;
+sub ka-kata.half by ka-kata.half.rotat;
+sub ki-kata.half by ki-kata.half.rotat;
+sub ku-kata.half by ku-kata.half.rotat;
+sub ke-kata.half by ke-kata.half.rotat;
+sub ko-kata.half by ko-kata.half.rotat;
+sub sa-kata.half by sa-kata.half.rotat;
+sub si-kata.half by si-kata.half.rotat;
+sub su-kata.half by su-kata.half.rotat;
+sub se-kata.half by se-kata.half.rotat;
+sub so-kata.half by so-kata.half.rotat;
+sub ta-kata.half by ta-kata.half.rotat;
+sub ti-kata.half by ti-kata.half.rotat;
+sub tu-kata.half by tu-kata.half.rotat;
+sub tusmall-kata.half by tusmall-kata.half.rotat;
+sub te-kata.half by te-kata.half.rotat;
+sub to-kata.half by to-kata.half.rotat;
+sub na-kata.half by na-kata.half.rotat;
+sub ni-kata.half by ni-kata.half.rotat;
+sub nu-kata.half by nu-kata.half.rotat;
+sub ne-kata.half by ne-kata.half.rotat;
+sub no-kata.half by no-kata.half.rotat;
+sub ha-kata.half by ha-kata.half.rotat;
+sub hi-kata.half by hi-kata.half.rotat;
+sub hu-kata.half by hu-kata.half.rotat;
+sub he-kata.half by he-kata.half.rotat;
+sub ho-kata.half by ho-kata.half.rotat;
+sub ma-kata.half by ma-kata.half.rotat;
+sub mi-kata.half by mi-kata.half.rotat;
+sub mu-kata.half by mu-kata.half.rotat;
+sub me-kata.half by me-kata.half.rotat;
+sub mo-kata.half by mo-kata.half.rotat;
+sub ya-kata.half by ya-kata.half.rotat;
+sub yasmall-kata.half by yasmall-kata.half.rotat;
+sub yu-kata.half by yu-kata.half.rotat;
+sub yusmall-kata.half by yusmall-kata.half.rotat;
+sub yo-kata.half by yo-kata.half.rotat;
+sub yosmall-kata.half by yosmall-kata.half.rotat;
+sub ra-kata.half by ra-kata.half.rotat;
+sub ri-kata.half by ri-kata.half.rotat;
+sub ru-kata.half by ru-kata.half.rotat;
+sub re-kata.half by re-kata.half.rotat;
+sub ro-kata.half by ro-kata.half.rotat;
+sub wa-kata.half by wa-kata.half.rotat;
+sub wo-kata.half by wo-kata.half.rotat;
+sub n-kata.half by n-kata.half.rotat;
+sub zero by zero.rotat;
+sub one by one.rotat;
+sub two by two.rotat;
+sub three by three.rotat;
+sub four by four.rotat;
+sub five by five.rotat;
+sub six by six.rotat;
+sub seven by seven.rotat;
+sub eight by eight.rotat;
+sub nine by nine.rotat;
+sub comma-han.half by comma-han.half.rotat;
+sub period-han.half by period-han.half.rotat;
+sub middledot-kata.half by middledot-kata.half.rotat;
+sub period by period.rotat;
+sub comma by comma.rotat;
+sub colon by colon.rotat;
+sub semicolon by semicolon.rotat;
+sub exclam by exclam.rotat;
+sub exclamdown by exclamdown.rotat;
+sub question by question.rotat;
+sub asterisk by asterisk.rotat;
+sub numbersign by numbersign.rotat;
+sub slash by slash.rotat;
+sub backslash by backslash.rotat;
+sub hyphen by hyphen.rotat;
+sub underscore by underscore.rotat;
+sub parenleft by parenleft.rotat;
+sub parenright by parenright.rotat;
+sub braceleft by braceleft.rotat;
+sub braceright by braceright.rotat;
+sub bracketleft by bracketleft.rotat;
+sub bracketright by bracketright.rotat;
+sub cornerbracketleft.half by cornerbracketleft.half.rotat;
+sub cornerbracketright.half by cornerbracketright.half.rotat;
+sub quotesinglbase by quotesinglbase.rotat;
+sub quotedblbase by quotedblbase.rotat;
+sub quotedblleft by quotedblleft.rotat;
+sub quoteleft by quoteleft.rotat;
+sub quoteright by quoteright.rotat;
+sub guillemetleft by guillemetleft.rotat;
+sub guilsinglleft by guilsinglleft.rotat;
+sub guilsinglright by guilsinglright.rotat;
+sub quotedbl by quotedbl.rotat;
+sub quotesingle by quotesingle.rotat;
+sub at by at.rotat;
+sub ampersand by ampersand.rotat;
+sub copyright by copyright.rotat;
+sub registered by registered.rotat;
+sub trademark by trademark.rotat;
+sub brokenbar by brokenbar.rotat;
+sub dollar by dollar.rotat;
+sub euro by euro.rotat;
+sub yen by yen.rotat;
+sub plus by plus.rotat;
+sub equal by equal.rotat;
+sub greater by greater.rotat;
+sub less by less.rotat;
+sub asciicircum by asciicircum.rotat;
+sub percent by percent.rotat;
+sub voiced-kana.half by voiced-kana.half.rotat;
+sub semivoiced-kana.half by semivoiced-kana.half.rotat;
+sub prolonged-kana.half by prolonged-kana.half.rotat;
+sub circumflexcomb by circumflexcomb.rotat;
+sub brevecomb by brevecomb.rotat;
+sub overlinecomb by overlinecomb.rotat;
+sub grave by grave.rotat;
+sub tilde by tilde.rotat;
+sub macron by macron.rotat;
+";
+tag = vrt2;
+}
+);
+fontMaster = (
+{
+axesValues = (
+100
+);
+customParameters = (
+{
+name = strikeoutPosition;
+value = 300;
+},
+{
+name = strikeoutSize;
+value = 50;
+},
+{
+name = vheaVertAscender;
+value = 500;
+},
+{
+name = vheaVertDescender;
+value = -500;
+},
+{
+name = vheaVertLineGap;
+value = 500;
+},
+{
+name = typoAscender;
+value = 880;
+},
+{
+name = typoDescender;
+value = -120;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1160;
+},
+{
+name = winDescent;
+value = 288;
+},
+{
+name = hheaAscender;
+value = 1160;
+},
+{
+name = hheaDescender;
+value = -288;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
+id = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+metricValues = (
+{
+pos = 800;
+},
+{
+pos = 720;
+},
+{
+pos = 475;
+},
+{
+},
+{
+pos = -200;
+},
+{
+}
+);
+name = Regular;
+stemValues = (
+44,
+44
+);
+userData = {
+GSOffsetHorizontal = -2;
+GSOffsetProportional = 1;
+GSOffsetVertical = 10;
+};
+}
+);
+instances = (
+{
+axesValues = (
+100
+);
+instanceInterpolations = {
+"5FC8A674-728C-4571-B0AF-A1C1BCF88B6F" = 1;
+};
+name = Regular;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2020 The Yomogi Project Authors (https://github.com/satsuyako/YomogiFont), all rights reserved.";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = satsuyako;
+}
+);
+},
+{
+key = designerURL;
+value = "http://satsuyako.com/";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = satsuyako;
+}
+);
+},
+{
+key = manufacturerURL;
+value = "http://satsuyako.com/";
+},
+{
+key = vendorID;
+value = STYK;
+}
+);
+settings = {
+disablesAutomaticAlignment = 1;
+disablesNiceNames = 1;
+};
+stems = (
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+}
+);
+unitsPerEm = 1000;
+versionMajor = 3;
+versionMinor = 207;
+}

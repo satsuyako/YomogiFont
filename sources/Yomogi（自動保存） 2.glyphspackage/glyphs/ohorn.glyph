@@ -1,0 +1,21 @@
+{
+glyphname = ohorn;
+lastChange = "2019-12-14 11:58:31 +0000";
+layers = (
+{
+.lastUpdate = 813928575.861;
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (106,-222);
+ref = horncomb;
+}
+);
+width = 500;
+}
+);
+unicode = 417;
+}
