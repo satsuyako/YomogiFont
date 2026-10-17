@@ -1,0 +1,21 @@
+{
+glyphname = scaron;
+layers = (
+{
+components = (
+{
+name = s;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, -56, -146}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00227;
+unicode = 0161;
+}

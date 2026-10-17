@@ -1,0 +1,32 @@
+{
+glyphname = "prolonged-kana.half.rotat";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"446 789 LINE",
+"443 809 OFFCURVE",
+"435 819 OFFCURVE",
+"421 819 CURVE SMOOTH",
+"407 820 OFFCURVE",
+"400 810 OFFCURVE",
+"400 791 CURVE SMOOTH",
+"399 411 LINE",
+"401 392 OFFCURVE",
+"409 382 OFFCURVE",
+"421 381 CURVE SMOOTH",
+"434 381 OFFCURVE",
+"442 391 OFFCURVE",
+"445 411 CURVE"
+);
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid09100;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Scaron.rotat;
+layers = (
+{
+components = (
+{
+name = S;
+transform = "{0, -1, 1, 0, 142, 859}";
+},
+{
+name = caroncomb.case;
+transform = "{0, -1, 1, 0, 244, 920}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08942;
+}

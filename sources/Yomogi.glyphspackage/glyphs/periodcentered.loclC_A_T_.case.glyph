@@ -1,0 +1,28 @@
+{
+glyphname = periodcentered.loclCAT.case;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"363 232 OFFCURVE",
+"363 268 CURVE SMOOTH",
+"363 299 OFFCURVE",
+"342 326 OFFCURVE",
+"302 326 CURVE SMOOTH",
+"266 326 OFFCURVE",
+"237 303 OFFCURVE",
+"237 263 CURVE SMOOTH",
+"237 230 OFFCURVE",
+"267 207 OFFCURVE",
+"299 207 CURVE SMOOTH",
+"340 207 OFFCURVE"
+);
+}
+);
+width = 600;
+}
+);
+}

@@ -1,0 +1,33 @@
+{
+glyphname = backslash.full;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"145 704 LINE",
+"129 713 OFFCURVE",
+"116 713 OFFCURVE",
+"107 702 CURVE SMOOTH",
+"99 691 OFFCURVE",
+"100 679 OFFCURVE",
+"111 664 CURVE",
+"855 16 LINE",
+"869 7 OFFCURVE",
+"881 8 OFFCURVE",
+"892 19 CURVE SMOOTH",
+"901 29 OFFCURVE",
+"899 42 OFFCURVE",
+"887 57 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00664;
+unicode = FF3C;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = hbar;
+layers = (
+{
+components = (
+{
+name = h;
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"32 652 LINE",
+"11 649 OFFCURVE",
+"1 642 OFFCURVE",
+"1 630 CURVE SMOOTH",
+"1 618 OFFCURVE",
+"10 612 OFFCURVE",
+"30 612 CURVE SMOOTH",
+"242 611 LINE",
+"261 613 OFFCURVE",
+"271 620 OFFCURVE",
+"271 630 CURVE SMOOTH",
+"271 641 OFFCURVE",
+"261 648 OFFCURVE",
+"242 651 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 0127;
+}

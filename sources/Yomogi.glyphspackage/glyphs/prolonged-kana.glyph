@@ -1,0 +1,33 @@
+{
+glyphname = "prolonged-kana";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"108 378 LINE",
+"97 374 OFFCURVE",
+"90 367 OFFCURVE",
+"89 356 CURVE SMOOTH",
+"88 346 OFFCURVE",
+"96 340 OFFCURVE",
+"114 339 CURVE SMOOTH",
+"889 341 LINE",
+"902 344 OFFCURVE",
+"910 350 OFFCURVE",
+"911 360 CURVE SMOOTH",
+"912 371 OFFCURVE",
+"905 378 OFFCURVE",
+"889 381 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00660;
+unicode = 30FC;
+}

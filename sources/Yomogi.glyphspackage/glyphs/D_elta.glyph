@@ -1,0 +1,39 @@
+{
+glyphname = Delta;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"772 50 LINE",
+"229 51 LINE",
+"505 664 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"520 718 LINE",
+"507 730 OFFCURVE",
+"495 728 OFFCURVE",
+"485 709 CURVE",
+"189 56 LINE",
+"183 28 OFFCURVE",
+"188 13 OFFCURVE",
+"205 10 CURVE",
+"795 10 LINE",
+"813 13 OFFCURVE",
+"819 27 OFFCURVE",
+"813 52 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid01014;
+unicode = 0394;
+}

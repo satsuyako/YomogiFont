@@ -1,0 +1,56 @@
+{
+glyphname = peso;
+layers = (
+{
+components = (
+{
+name = P;
+transform = "{1, 0, 0, 1, -10, 0}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"32 559 LINE",
+"11 556 OFFCURVE",
+"1 549 OFFCURVE",
+"1 537 CURVE SMOOTH",
+"1 525 OFFCURVE",
+"10 519 OFFCURVE",
+"30 519 CURVE SMOOTH",
+"479 518 LINE",
+"498 520 OFFCURVE",
+"508 527 OFFCURVE",
+"508 537 CURVE SMOOTH",
+"508 548 OFFCURVE",
+"498 555 OFFCURVE",
+"479 558 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"35 455 LINE",
+"14 452 OFFCURVE",
+"4 445 OFFCURVE",
+"4 433 CURVE SMOOTH",
+"4 421 OFFCURVE",
+"13 415 OFFCURVE",
+"33 415 CURVE SMOOTH",
+"482 414 LINE",
+"501 416 OFFCURVE",
+"511 423 OFFCURVE",
+"511 433 CURVE SMOOTH",
+"511 444 OFFCURVE",
+"501 451 OFFCURVE",
+"482 454 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 20B1;
+}

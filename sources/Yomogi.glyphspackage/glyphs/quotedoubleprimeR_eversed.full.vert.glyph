@@ -1,0 +1,51 @@
+{
+glyphname = quotedoubleprimeReversed.full.vert;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"775 -56 LINE",
+"774 -80 OFFCURVE",
+"779 -92 OFFCURVE",
+"791 -93 CURVE SMOOTH",
+"803 -94 OFFCURVE",
+"813 -86 OFFCURVE",
+"820 -71 CURVE",
+"899 140 LINE",
+"902 161 OFFCURVE",
+"898 173 OFFCURVE",
+"887 175 CURVE SMOOTH",
+"875 176 OFFCURVE",
+"865 169 OFFCURVE",
+"858 154 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"575 -29 LINE",
+"572 -52 OFFCURVE",
+"576 -65 OFFCURVE",
+"587 -70 CURVE SMOOTH",
+"597 -75 OFFCURVE",
+"606 -68 OFFCURVE",
+"617 -52 CURVE",
+"703 164 LINE",
+"713 183 OFFCURVE",
+"713 195 OFFCURVE",
+"702 201 CURVE SMOOTH",
+"691 207 OFFCURVE",
+"679 201 OFFCURVE",
+"663 183 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid07956;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = Ecircumflexhookabove;
+layers = (
+{
+components = (
+{
+name = E;
+},
+{
+name = circumflexcomb.case;
+transform = "{1, 0, 0, 1, 0, 94}";
+},
+{
+name = hookabovecomb.case;
+transform = "{1, 0, 0, 1, 43, 204}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 500;
+}
+);
+unicode = 1EC2;
+}

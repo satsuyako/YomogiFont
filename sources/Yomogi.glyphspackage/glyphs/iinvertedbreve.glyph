@@ -1,0 +1,19 @@
+{
+glyphname = iinvertedbreve;
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = breveinvertedcomb;
+transform = "{1, 0, 0, 1, -66, -172}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 500;
+}
+);
+unicode = 020B;
+}

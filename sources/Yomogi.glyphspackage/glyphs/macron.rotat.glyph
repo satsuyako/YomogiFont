@@ -1,0 +1,32 @@
+{
+glyphname = macron.rotat;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"837 719 LINE",
+"833 750 OFFCURVE",
+"824 755 OFFCURVE",
+"810 754 CURVE SMOOTH",
+"796 752 OFFCURVE",
+"788 748 OFFCURVE",
+"785 719 CURVE",
+"786 489 LINE SMOOTH",
+"786 467 OFFCURVE",
+"794 456 OFFCURVE",
+"809 455 CURVE SMOOTH",
+"822 453 OFFCURVE",
+"831 462 OFFCURVE",
+"837 484 CURVE"
+);
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08848;
+}

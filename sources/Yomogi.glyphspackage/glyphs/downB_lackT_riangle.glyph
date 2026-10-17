@@ -1,0 +1,31 @@
+{
+glyphname = downBlackTriangle;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"938 690 LINE",
+"946 715 OFFCURVE",
+"939 729 OFFCURVE",
+"917 732 CURVE",
+"82 736 LINE",
+"62 733 OFFCURVE",
+"55 718 OFFCURVE",
+"63 690 CURVE",
+"483 10 LINE SMOOTH",
+"495 -9 OFFCURVE",
+"508 -12 OFFCURVE",
+"522 1 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00733;
+unicode = 25BC;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = "io-cy";
+layers = (
+{
+components = (
+{
+name = "ie-cy";
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, 196, -60}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid01098;
+unicode = 0451;
+}

@@ -1,0 +1,30 @@
+{
+glyphname = Lcaron;
+layers = (
+{
+components = (
+{
+name = L;
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"244 592 LINE SMOOTH",
+"242 567 OFFCURVE",
+"275 555 OFFCURVE",
+"282 588 CURVE SMOOTH",
+"309 720 LINE SMOOTH",
+"318 765 OFFCURVE",
+"261 780 OFFCURVE",
+"256 723 CURVE SMOOTH"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 013D;
+}

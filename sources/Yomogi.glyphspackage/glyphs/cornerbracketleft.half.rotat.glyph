@@ -1,0 +1,37 @@
+{
+glyphname = cornerbracketleft.half.rotat;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"970 653 LINE SMOOTH",
+"971 670 OFFCURVE",
+"958 676 OFFCURVE",
+"933 671 CURVE",
+"666 670 LINE",
+"648 667 OFFCURVE",
+"639 658 OFFCURVE",
+"640 644 CURVE SMOOTH",
+"641 630 OFFCURVE",
+"650 624 OFFCURVE",
+"666 625 CURVE SMOOTH",
+"921 627 LINE",
+"921 410 LINE SMOOTH",
+"922 389 OFFCURVE",
+"931 380 OFFCURVE",
+"946 380 CURVE SMOOTH",
+"960 381 OFFCURVE",
+"968 391 OFFCURVE",
+"971 410 CURVE"
+);
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid09086;
+}

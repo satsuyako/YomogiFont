@@ -1,0 +1,31 @@
+{
+glyphname = upBlackTriangle;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"63 25 LINE",
+"55 1 OFFCURVE",
+"62 -14 OFFCURVE",
+"84 -17 CURVE",
+"919 -17 LINE",
+"939 -14 OFFCURVE",
+"946 2 OFFCURVE",
+"938 29 CURVE",
+"514 708 LINE SMOOTH",
+"502 727 OFFCURVE",
+"489 729 OFFCURVE",
+"475 717 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00731;
+unicode = 25B2;
+}

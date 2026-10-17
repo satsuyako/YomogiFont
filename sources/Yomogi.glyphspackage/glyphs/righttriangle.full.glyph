@@ -1,0 +1,43 @@
+{
+glyphname = righttriangle.full;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"156 56 OFFCURVE",
+"157 45 OFFCURVE",
+"166 34 CURVE SMOOTH",
+"171 27 OFFCURVE",
+"400 25 OFFCURVE",
+"854 29 CURVE",
+"866 32 OFFCURVE",
+"873 38 OFFCURVE",
+"874 49 CURVE",
+"871 730 LINE",
+"856 747 OFFCURVE",
+"843 748 OFFCURVE",
+"831 733 CURVE",
+"826 732 OFFCURVE",
+"603 511 OFFCURVE",
+"162 68 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"220 66 LINE",
+"828 669 LINE",
+"828 69 LINE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid07630;
+unicode = 22BF;
+}

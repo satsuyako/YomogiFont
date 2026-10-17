@@ -1,0 +1,31 @@
+{
+glyphname = apostrophemod;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"269 601 LINE SMOOTH",
+"269 589 OFFCURVE",
+"279 580 OFFCURVE",
+"291 580 CURVE SMOOTH",
+"303 580 OFFCURVE",
+"310 589 OFFCURVE",
+"312 601 CURVE SMOOTH",
+"332 734 LINE SMOOTH",
+"335 756 OFFCURVE",
+"323 775 OFFCURVE",
+"301 775 CURVE SMOOTH",
+"279 775 OFFCURVE",
+"269 756 OFFCURVE",
+"269 734 CURVE SMOOTH"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 02BC;
+}

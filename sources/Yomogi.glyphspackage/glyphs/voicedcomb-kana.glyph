@@ -1,0 +1,38 @@
+{
+glyphname = "voicedcomb-kana";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"111 712 LINE SMOOTH",
+"90 746 OFFCURVE",
+"57 720 OFFCURVE",
+"76 688 CURVE SMOOTH",
+"187 505 LINE SMOOTH",
+"204 477 OFFCURVE",
+"244 496 OFFCURVE",
+"224 528 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"267 775 LINE SMOOTH",
+"245 810 OFFCURVE",
+"206 785 OFFCURVE",
+"233 747 CURVE SMOOTH",
+"349 562 LINE SMOOTH",
+"369 530 OFFCURVE",
+"408 555 OFFCURVE",
+"384 591 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 3099;
+}

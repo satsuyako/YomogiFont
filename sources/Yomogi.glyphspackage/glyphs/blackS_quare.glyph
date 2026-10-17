@@ -1,0 +1,35 @@
+{
+glyphname = blackSquare;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"878 725 LINE SMOOTH",
+"878 739 OFFCURVE",
+"869 748 OFFCURVE",
+"853 751 CURVE",
+"143 753 LINE",
+"126 750 OFFCURVE",
+"121 737 OFFCURVE",
+"127 714 CURVE",
+"129 -9 LINE SMOOTH",
+"129 -25 OFFCURVE",
+"140 -32 OFFCURVE",
+"162 -27 CURVE",
+"857 -31 LINE SMOOTH",
+"874 -31 OFFCURVE",
+"882 -21 OFFCURVE",
+"881 -3 CURVE SMOOTH"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00729;
+unicode = 25A0;
+}

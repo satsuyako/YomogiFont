@@ -1,0 +1,32 @@
+{
+glyphname = grave.rotat;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"944 678 LINE",
+"961 699 OFFCURVE",
+"965 714 OFFCURVE",
+"955 724 CURVE SMOOTH",
+"945 734 OFFCURVE",
+"929 731 OFFCURVE",
+"909 716 CURVE SMOOTH",
+"775 607 LINE",
+"760 592 OFFCURVE",
+"756 579 OFFCURVE",
+"764 567 CURVE SMOOTH",
+"771 556 OFFCURVE",
+"784 554 OFFCURVE",
+"802 562 CURVE"
+);
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08784;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = oe;
+layers = (
+{
+components = (
+{
+name = o;
+transform = "{0.62484, 0, 0, 1, -19, 0}";
+},
+{
+name = e;
+transform = "{0.62484, 0, 0, 1, 207, 0}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00149;
+unicode = 0153;
+}

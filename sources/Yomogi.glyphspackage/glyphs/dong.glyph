@@ -1,0 +1,56 @@
+{
+glyphname = dong;
+layers = (
+{
+components = (
+{
+name = d;
+transform = "{1, 0, 0, 1, -20, 0}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"42 -38 LINE",
+"21 -41 OFFCURVE",
+"11 -48 OFFCURVE",
+"11 -60 CURVE SMOOTH",
+"11 -72 OFFCURVE",
+"20 -78 OFFCURVE",
+"40 -78 CURVE SMOOTH",
+"459 -79 LINE",
+"478 -77 OFFCURVE",
+"488 -70 OFFCURVE",
+"488 -60 CURVE SMOOTH",
+"488 -49 OFFCURVE",
+"478 -42 OFFCURVE",
+"459 -39 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 639 LINE",
+"242 636 OFFCURVE",
+"232 629 OFFCURVE",
+"232 617 CURVE SMOOTH",
+"232 605 OFFCURVE",
+"241 599 OFFCURVE",
+"261 599 CURVE SMOOTH",
+"470 598 LINE",
+"489 600 OFFCURVE",
+"499 607 OFFCURVE",
+"499 617 CURVE SMOOTH",
+"499 628 OFFCURVE",
+"489 635 OFFCURVE",
+"470 638 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 20AB;
+}

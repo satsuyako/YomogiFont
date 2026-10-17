@@ -1,0 +1,25 @@
+{
+glyphname = commaaccentcomb;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"239 -229 LINE SMOOTH",
+"227 -251 OFFCURVE",
+"259 -274 OFFCURVE",
+"279 -246 CURVE SMOOTH",
+"358 -134 LINE SMOOTH",
+"386 -95 OFFCURVE",
+"327 -61 OFFCURVE",
+"301 -111 CURVE SMOOTH"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0326;
+}

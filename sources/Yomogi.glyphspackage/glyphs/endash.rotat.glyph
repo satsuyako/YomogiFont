@@ -1,0 +1,22 @@
+{
+glyphname = endash.rotat;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"381 359 LINE",
+"437 359 LINE",
+"437 857 LINE",
+"381 857 LINE"
+);
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08833;
+}

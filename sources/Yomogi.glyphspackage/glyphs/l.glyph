@@ -1,0 +1,33 @@
+{
+glyphname = l;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"275 689 LINE",
+"272 711 OFFCURVE",
+"263 723 OFFCURVE",
+"248 725 CURVE SMOOTH",
+"233 727 OFFCURVE",
+"225 715 OFFCURVE",
+"224 689 CURVE SMOOTH",
+"225 33 LINE",
+"228 13 OFFCURVE",
+"237 2 OFFCURVE",
+"251 2 CURVE SMOOTH",
+"264 2 OFFCURVE",
+"272 13 OFFCURVE",
+"276 33 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00077;
+unicode = 006C;
+}

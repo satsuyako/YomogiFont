@@ -1,0 +1,38 @@
+{
+glyphname = cornerbracketright.half;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"317 262 LINE SMOOTH",
+"317 278 OFFCURVE",
+"310 287 OFFCURVE",
+"294 287 CURVE SMOOTH",
+"278 287 OFFCURVE",
+"271 278 OFFCURVE",
+"270 262 CURVE SMOOTH",
+"270 -29 LINE",
+"46 -29 LINE",
+"27 -31 OFFCURVE",
+"18 -39 OFFCURVE",
+"19 -54 CURVE SMOOTH",
+"20 -67 OFFCURVE",
+"30 -75 OFFCURVE",
+"52 -77 CURVE",
+"285 -77 LINE",
+"306 -74 OFFCURVE",
+"315 -66 OFFCURVE",
+"315 -52 CURVE SMOOTH"
+);
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00329;
+unicode = FF63;
+}

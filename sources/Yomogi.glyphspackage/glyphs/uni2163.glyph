@@ -1,0 +1,20 @@
+{
+glyphname = uni2163;
+layers = (
+{
+components = (
+{
+name = I;
+transform = "{1, 0, 0, 1, 52, 0}";
+},
+{
+name = V;
+transform = "{1, 0, 0, 1, 424, 0}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 1000;
+}
+);
+unicode = 2163;
+}

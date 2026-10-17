@@ -1,0 +1,29 @@
+{
+glyphname = periodcentered;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"352 274 OFFCURVE",
+"352 304 CURVE SMOOTH",
+"352 329 OFFCURVE",
+"335 352 OFFCURVE",
+"302 352 CURVE SMOOTH",
+"272 352 OFFCURVE",
+"248 333 OFFCURVE",
+"248 300 CURVE SMOOTH",
+"248 272 OFFCURVE",
+"273 253 OFFCURVE",
+"299 253 CURVE SMOOTH",
+"333 253 OFFCURVE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 00B7;
+}

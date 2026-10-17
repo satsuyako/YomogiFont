@@ -1,0 +1,19 @@
+{
+glyphname = Adotbelow;
+layers = (
+{
+components = (
+{
+name = A;
+},
+{
+name = dotbelowcomb.case;
+transform = "{1, 0, 0, 1, -45, 38}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 500;
+}
+);
+unicode = 1EA0;
+}

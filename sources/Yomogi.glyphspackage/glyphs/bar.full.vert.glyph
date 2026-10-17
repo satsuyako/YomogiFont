@@ -1,0 +1,32 @@
+{
+glyphname = bar.full.vert;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"966 339 LINE",
+"985 337 OFFCURVE",
+"995 343 OFFCURVE",
+"996 356 CURVE SMOOTH",
+"996 369 OFFCURVE",
+"986 378 OFFCURVE",
+"967 381 CURVE",
+"37 382 LINE SMOOTH",
+"11 381 OFFCURVE",
+"-2 375 OFFCURVE",
+"-1 362 CURVE SMOOTH",
+"1 350 OFFCURVE",
+"14 343 OFFCURVE",
+"39 340 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid07896;
+}

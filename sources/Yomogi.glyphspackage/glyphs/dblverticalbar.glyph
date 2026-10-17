@@ -1,0 +1,52 @@
+{
+glyphname = dblverticalbar;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"213 -40 LINE",
+"210 -57 OFFCURVE",
+"215 -67 OFFCURVE",
+"229 -71 CURVE SMOOTH",
+"244 -74 OFFCURVE",
+"255 -69 OFFCURVE",
+"262 -57 CURVE",
+"563 774 LINE",
+"565 791 OFFCURVE",
+"561 802 OFFCURVE",
+"547 806 CURVE SMOOTH",
+"533 809 OFFCURVE",
+"522 804 OFFCURVE",
+"514 790 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"438 -55 LINE",
+"436 -71 OFFCURVE",
+"440 -82 OFFCURVE",
+"455 -86 CURVE SMOOTH",
+"470 -89 OFFCURVE",
+"480 -84 OFFCURVE",
+"487 -71 CURVE",
+"788 760 LINE",
+"791 776 OFFCURVE",
+"786 787 OFFCURVE",
+"772 791 CURVE SMOOTH",
+"759 794 OFFCURVE",
+"748 789 OFFCURVE",
+"739 775 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00666;
+unicode = "2016,2225";
+}

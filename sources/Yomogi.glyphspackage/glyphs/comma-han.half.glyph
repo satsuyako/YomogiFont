@@ -1,0 +1,33 @@
+{
+glyphname = "comma-han.half";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"124 132 LINE",
+"108 146 OFFCURVE",
+"95 151 OFFCURVE",
+"82 145 CURVE SMOOTH",
+"69 138 OFFCURVE",
+"67 127 OFFCURVE",
+"77 110 CURVE",
+"225 -45 LINE SMOOTH",
+"237 -56 OFFCURVE",
+"249 -58 OFFCURVE",
+"259 -50 CURVE SMOOTH",
+"269 -41 OFFCURVE",
+"269 -29 OFFCURVE",
+"258 -13 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00330;
+unicode = FF64;
+}

@@ -1,0 +1,24 @@
+{
+glyphname = acutecomb.case;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"188 605 LINE SMOOTH",
+"176 583 OFFCURVE",
+"208 560 OFFCURVE",
+"228 588 CURVE SMOOTH",
+"307 700 LINE SMOOTH",
+"335 739 OFFCURVE",
+"276 773 OFFCURVE",
+"250 723 CURVE SMOOTH"
+);
+}
+);
+width = 500;
+}
+);
+}

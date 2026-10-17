@@ -1,0 +1,23 @@
+{
+glyphname = Ecircumflexdotbelow;
+layers = (
+{
+components = (
+{
+name = E;
+},
+{
+name = dotbelowcomb.case;
+transform = "{1, 0, 0, 1, -56, 51}";
+},
+{
+name = circumflexcomb.case;
+transform = "{1, 0, 0, 1, 22, 94}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 500;
+}
+);
+unicode = 1EC6;
+}

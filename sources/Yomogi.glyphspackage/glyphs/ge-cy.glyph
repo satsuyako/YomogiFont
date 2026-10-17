@@ -1,0 +1,38 @@
+{
+glyphname = "ge-cy";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"316 531 LINE SMOOTH",
+"299 531 OFFCURVE",
+"292 516 OFFCURVE",
+"297 483 CURVE",
+"300 40 LINE SMOOTH",
+"301 21 OFFCURVE",
+"308 11 OFFCURVE",
+"320 11 CURVE SMOOTH",
+"333 11 OFFCURVE",
+"342 21 OFFCURVE",
+"347 41 CURVE",
+"349 481 LINE",
+"683 481 LINE",
+"701 483 OFFCURVE",
+"710 492 OFFCURVE",
+"709 508 CURVE SMOOTH",
+"708 522 OFFCURVE",
+"699 530 OFFCURVE",
+"683 531 CURVE SMOOTH"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid01095;
+unicode = 0433;
+}

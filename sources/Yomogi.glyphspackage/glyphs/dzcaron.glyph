@@ -1,0 +1,24 @@
+{
+glyphname = dzcaron;
+layers = (
+{
+components = (
+{
+name = d;
+transform = "{1, 0, 0, 1, 33, 0}";
+},
+{
+name = z;
+transform = "{1, 0, 0, 1, 459, 0}";
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 410, -137}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 1000;
+}
+);
+unicode = 01C6;
+}

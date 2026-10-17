@@ -1,0 +1,21 @@
+{
+glyphname = Ydieresis.rotat;
+layers = (
+{
+components = (
+{
+name = Y;
+transform = "{0, -1, 1, 0, 141, 859}";
+},
+{
+name = dieresiscomb.case;
+transform = "{0, -1, 1, 0, 189, 904}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08943;
+}

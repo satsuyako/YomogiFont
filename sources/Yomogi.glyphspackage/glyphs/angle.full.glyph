@@ -1,0 +1,40 @@
+{
+glyphname = angle.full;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"162 68 LINE",
+"156 56 OFFCURVE",
+"157 45 OFFCURVE",
+"166 34 CURVE SMOOTH",
+"171 27 OFFCURVE",
+"404 25 OFFCURVE",
+"866 29 CURVE",
+"878 32 OFFCURVE",
+"885 38 OFFCURVE",
+"886 49 CURVE SMOOTH",
+"887 60 OFFCURVE",
+"881 66 OFFCURVE",
+"866 69 CURVE",
+"228 66 LINE",
+"792 665 LINE",
+"800 678 OFFCURVE",
+"800 690 OFFCURVE",
+"792 701 CURVE SMOOTH",
+"783 712 OFFCURVE",
+"771 713 OFFCURVE",
+"757 702 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00756;
+unicode = 2220;
+}

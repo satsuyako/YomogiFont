@@ -1,0 +1,31 @@
+{
+glyphname = macroncomb;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"422 741 LINE SMOOTH",
+"434 741 OFFCURVE",
+"443 751 OFFCURVE",
+"443 763 CURVE SMOOTH",
+"443 775 OFFCURVE",
+"434 784 OFFCURVE",
+"422 784 CURVE SMOOTH",
+"179 784 LINE SMOOTH",
+"167 784 OFFCURVE",
+"158 775 OFFCURVE",
+"158 763 CURVE SMOOTH",
+"158 751 OFFCURVE",
+"167 741 OFFCURVE",
+"179 741 CURVE SMOOTH"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0304;
+}

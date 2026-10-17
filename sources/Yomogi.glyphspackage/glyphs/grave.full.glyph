@@ -1,0 +1,33 @@
+{
+glyphname = grave.full;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"142 769 LINE",
+"126 783 OFFCURVE",
+"113 787 OFFCURVE",
+"104 779 CURVE SMOOTH",
+"96 771 OFFCURVE",
+"96 760 OFFCURVE",
+"106 743 CURVE",
+"240 593 LINE",
+"253 582 OFFCURVE",
+"264 579 OFFCURVE",
+"274 586 CURVE SMOOTH",
+"284 593 OFFCURVE",
+"283 604 OFFCURVE",
+"272 621 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00646;
+unicode = FF40;
+}

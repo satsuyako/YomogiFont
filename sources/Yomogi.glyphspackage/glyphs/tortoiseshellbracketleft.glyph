@@ -1,0 +1,44 @@
+{
+glyphname = tortoiseshellbracketleft;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"604 719 LINE",
+"588 721 OFFCURVE",
+"581 714 OFFCURVE",
+"584 697 CURVE",
+"581 15 LINE",
+"590 4 OFFCURVE",
+"646 -24 OFFCURVE",
+"747 -69 CURVE",
+"766 -64 OFFCURVE",
+"775 -58 OFFCURVE",
+"776 -49 CURVE SMOOTH",
+"777 -40 OFFCURVE",
+"773 -33 OFFCURVE",
+"765 -28 CURVE SMOOTH",
+"756 -22 OFFCURVE",
+"709 4 OFFCURVE",
+"626 50 CURVE",
+"627 678 LINE",
+"766 755 LINE",
+"785 757 OFFCURVE",
+"794 765 OFFCURVE",
+"792 777 CURVE SMOOTH",
+"790 790 OFFCURVE",
+"781 796 OFFCURVE",
+"766 797 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00676;
+unicode = 3014;
+}

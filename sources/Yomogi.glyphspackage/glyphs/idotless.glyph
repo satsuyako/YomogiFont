@@ -1,0 +1,31 @@
+{
+glyphname = idotless;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"255 454 LINE SMOOTH",
+"254 474 OFFCURVE",
+"245 484 OFFCURVE",
+"229 485 CURVE SMOOTH",
+"213 486 OFFCURVE",
+"205 476 OFFCURVE",
+"204 453 CURVE SMOOTH",
+"208 26 LINE",
+"205 7 OFFCURVE",
+"212 -4 OFFCURVE",
+"228 -5 CURVE SMOOTH",
+"243 -6 OFFCURVE",
+"254 4 OFFCURVE",
+"259 26 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 0131;
+}

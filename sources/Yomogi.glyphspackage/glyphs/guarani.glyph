@@ -1,0 +1,36 @@
+{
+glyphname = guarani;
+layers = (
+{
+components = (
+{
+name = G;
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"270 772 LINE",
+"272 791 OFFCURVE",
+"266 801 OFFCURVE",
+"250 802 CURVE SMOOTH",
+"234 803 OFFCURVE",
+"225 790 OFFCURVE",
+"222 765 CURVE",
+"224 -47 LINE SMOOTH",
+"224 -65 OFFCURVE",
+"232 -74 OFFCURVE",
+"247 -73 CURVE SMOOTH",
+"261 -72 OFFCURVE",
+"269 -63 OFFCURVE",
+"272 -45 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 20B2;
+}

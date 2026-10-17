@@ -1,0 +1,17 @@
+{
+glyphname = quoteright.rotat;
+layers = (
+{
+components = (
+{
+name = quoteright;
+transform = "{0, -1, 1, 0, -196, 899}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08815;
+}

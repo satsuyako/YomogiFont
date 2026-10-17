@@ -1,0 +1,23 @@
+{
+glyphname = horizontalbar;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"-11 354 LINE",
+"-8 314 LINE",
+"1002 316 LINE",
+"1002 356 LINE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00661;
+unicode = 2015;
+}

@@ -1,0 +1,31 @@
+{
+glyphname = acute;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"211 643 OFFCURVE",
+"213 630 OFFCURVE",
+"224 623 CURVE SMOOTH",
+"236 615 OFFCURVE",
+"249 619 OFFCURVE",
+"264 634 CURVE",
+"373 768 LINE SMOOTH",
+"389 787 OFFCURVE",
+"391 804 OFFCURVE",
+"381 814 CURVE SMOOTH",
+"371 824 OFFCURVE",
+"356 820 OFFCURVE",
+"335 803 CURVE",
+"219 661 LINE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 00B4;
+}

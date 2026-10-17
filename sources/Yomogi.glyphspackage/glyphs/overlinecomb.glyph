@@ -1,0 +1,23 @@
+{
+glyphname = overlinecomb;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"501 804 LINE",
+"501 860 LINE",
+"2 860 LINE",
+"2 804 LINE"
+);
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00226;
+unicode = 0305;
+}

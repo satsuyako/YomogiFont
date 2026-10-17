@@ -1,0 +1,33 @@
+{
+glyphname = minute.full;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"249 759 LINE",
+"259 779 OFFCURVE",
+"259 792 OFFCURVE",
+"248 799 CURVE SMOOTH",
+"237 806 OFFCURVE",
+"226 801 OFFCURVE",
+"212 785 CURVE",
+"106 604 LINE",
+"100 588 OFFCURVE",
+"101 576 OFFCURVE",
+"110 568 CURVE SMOOTH",
+"120 560 OFFCURVE",
+"132 563 OFFCURVE",
+"145 580 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00708;
+unicode = 2032;
+}

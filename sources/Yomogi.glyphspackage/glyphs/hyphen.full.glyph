@@ -1,0 +1,33 @@
+{
+glyphname = hyphen.full;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"237 384 LINE",
+"210 381 OFFCURVE",
+"196 372 OFFCURVE",
+"196 357 CURVE SMOOTH",
+"195 343 OFFCURVE",
+"209 336 OFFCURVE",
+"236 336 CURVE SMOOTH",
+"765 335 LINE",
+"791 337 OFFCURVE",
+"805 345 OFFCURVE",
+"806 358 CURVE SMOOTH",
+"807 371 OFFCURVE",
+"793 380 OFFCURVE",
+"765 383 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00693;
+unicode = FF0D;
+}

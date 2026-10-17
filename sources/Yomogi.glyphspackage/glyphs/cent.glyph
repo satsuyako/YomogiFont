@@ -1,0 +1,36 @@
+{
+glyphname = cent;
+layers = (
+{
+components = (
+{
+name = c;
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"270 533 LINE",
+"272 552 OFFCURVE",
+"266 562 OFFCURVE",
+"250 563 CURVE SMOOTH",
+"234 564 OFFCURVE",
+"225 551 OFFCURVE",
+"222 526 CURVE",
+"224 -65 LINE SMOOTH",
+"224 -83 OFFCURVE",
+"232 -92 OFFCURVE",
+"247 -91 CURVE SMOOTH",
+"261 -90 OFFCURVE",
+"269 -81 OFFCURVE",
+"272 -63 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 00A2;
+}

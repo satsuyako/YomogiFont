@@ -1,0 +1,57 @@
+{
+glyphname = yen;
+layers = (
+{
+components = (
+{
+name = Y;
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"82 310 LINE",
+"61 307 OFFCURVE",
+"51 300 OFFCURVE",
+"51 288 CURVE SMOOTH",
+"51 276 OFFCURVE",
+"60 270 OFFCURVE",
+"80 270 CURVE SMOOTH",
+"419 269 LINE",
+"438 271 OFFCURVE",
+"448 278 OFFCURVE",
+"448 288 CURVE SMOOTH",
+"448 299 OFFCURVE",
+"438 306 OFFCURVE",
+"419 309 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"82 186 LINE",
+"61 183 OFFCURVE",
+"51 176 OFFCURVE",
+"51 164 CURVE SMOOTH",
+"51 152 OFFCURVE",
+"60 146 OFFCURVE",
+"80 146 CURVE SMOOTH",
+"419 145 LINE",
+"438 147 OFFCURVE",
+"448 154 OFFCURVE",
+"448 164 CURVE SMOOTH",
+"448 175 OFFCURVE",
+"438 182 OFFCURVE",
+"419 185 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00061;
+unicode = 00A5;
+}

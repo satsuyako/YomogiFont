@@ -1,0 +1,32 @@
+{
+glyphname = l.rotat;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"830 620 LINE",
+"852 623 OFFCURVE",
+"864 632 OFFCURVE",
+"866 647 CURVE SMOOTH",
+"868 662 OFFCURVE",
+"856 670 OFFCURVE",
+"830 671 CURVE SMOOTH",
+"174 670 LINE",
+"154 667 OFFCURVE",
+"143 658 OFFCURVE",
+"143 644 CURVE SMOOTH",
+"143 631 OFFCURVE",
+"154 623 OFFCURVE",
+"174 619 CURVE"
+);
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08796;
+}

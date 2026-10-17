@@ -1,0 +1,23 @@
+{
+glyphname = endash;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"500 240 LINE",
+"500 296 LINE",
+"2 296 LINE",
+"2 240 LINE"
+);
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00114;
+unicode = "2012,2013";
+}

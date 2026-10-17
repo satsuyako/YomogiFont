@@ -1,0 +1,33 @@
+{
+glyphname = endash.vert;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"514 733 LINE",
+"509 744 OFFCURVE",
+"500 749 OFFCURVE",
+"489 750 CURVE SMOOTH",
+"478 751 OFFCURVE",
+"472 744 OFFCURVE",
+"471 730 CURVE",
+"473 487 LINE",
+"476 475 OFFCURVE",
+"483 468 OFFCURVE",
+"495 467 CURVE SMOOTH",
+"507 466 OFFCURVE",
+"515 473 OFFCURVE",
+"518 487 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid07893;
+unicode = FE32;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = franc;
+layers = (
+{
+components = (
+{
+name = F;
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"32 197 LINE",
+"11 194 OFFCURVE",
+"1 187 OFFCURVE",
+"1 175 CURVE SMOOTH",
+"1 163 OFFCURVE",
+"10 157 OFFCURVE",
+"30 157 CURVE SMOOTH",
+"257 156 LINE",
+"276 158 OFFCURVE",
+"286 165 OFFCURVE",
+"286 175 CURVE SMOOTH",
+"286 186 OFFCURVE",
+"276 193 OFFCURVE",
+"257 196 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 20A3;
+}

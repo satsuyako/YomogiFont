@@ -1,0 +1,29 @@
+{
+glyphname = dotbelowcomb;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"352 -153 OFFCURVE",
+"352 -123 CURVE SMOOTH",
+"352 -98 OFFCURVE",
+"335 -75 OFFCURVE",
+"302 -75 CURVE SMOOTH",
+"272 -75 OFFCURVE",
+"248 -94 OFFCURVE",
+"248 -127 CURVE SMOOTH",
+"248 -155 OFFCURVE",
+"273 -174 OFFCURVE",
+"299 -174 CURVE SMOOTH",
+"333 -174 OFFCURVE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 0323;
+}

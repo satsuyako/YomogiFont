@@ -1,0 +1,31 @@
+{
+glyphname = fraction;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"520 661 LINE",
+"531 676 OFFCURVE",
+"531 688 OFFCURVE",
+"517 697 CURVE SMOOTH",
+"504 706 OFFCURVE",
+"490 699 OFFCURVE",
+"474 679 CURVE",
+"78 -11 LINE SMOOTH",
+"69 -27 OFFCURVE",
+"72 -39 OFFCURVE",
+"85 -45 CURVE SMOOTH",
+"98 -51 OFFCURVE",
+"109 -48 OFFCURVE",
+"121 -34 CURVE"
+);
+}
+);
+width = 600;
+}
+);
+unicode = 2044;
+}

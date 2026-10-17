@@ -1,0 +1,38 @@
+{
+glyphname = v.full;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"696 407 LINE SMOOTH",
+"704 424 OFFCURVE",
+"703 435 OFFCURVE",
+"693 440 CURVE SMOOTH",
+"684 446 OFFCURVE",
+"673 442 OFFCURVE",
+"661 430 CURVE",
+"493 64 LINE",
+"341 437 LINE",
+"333 450 OFFCURVE",
+"323 455 OFFCURVE",
+"311 451 CURVE SMOOTH",
+"298 447 OFFCURVE",
+"296 436 OFFCURVE",
+"303 416 CURVE SMOOTH",
+"470 13 LINE",
+"486 -8 OFFCURVE",
+"502 -7 OFFCURVE",
+"516 16 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00837;
+unicode = FF56;
+}

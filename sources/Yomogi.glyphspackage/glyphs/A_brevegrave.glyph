@@ -1,0 +1,23 @@
+{
+glyphname = Abrevegrave;
+layers = (
+{
+components = (
+{
+name = A;
+},
+{
+name = brevecomb.case;
+transform = "{1, 0, 0, 1, 0, 138}";
+},
+{
+name = gravecomb.case;
+transform = "{0.83333, 0, 0, 0.83333, 46, 332}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 500;
+}
+);
+unicode = 1EB0;
+}

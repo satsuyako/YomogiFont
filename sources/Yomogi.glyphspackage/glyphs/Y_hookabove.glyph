@@ -1,0 +1,19 @@
+{
+glyphname = Yhookabove;
+layers = (
+{
+components = (
+{
+name = Y;
+},
+{
+name = hookabovecomb.case;
+transform = "{1, 0, 0, 1, -52, 53}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 500;
+}
+);
+unicode = 1EF6;
+}

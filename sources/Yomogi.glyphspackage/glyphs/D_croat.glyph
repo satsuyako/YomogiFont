@@ -1,0 +1,37 @@
+{
+glyphname = Dcroat;
+layers = (
+{
+components = (
+{
+name = D;
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"33 378 LINE",
+"12 375 OFFCURVE",
+"2 368 OFFCURVE",
+"2 356 CURVE SMOOTH",
+"2 344 OFFCURVE",
+"11 338 OFFCURVE",
+"31 338 CURVE SMOOTH",
+"222 337 LINE",
+"241 339 OFFCURVE",
+"251 346 OFFCURVE",
+"251 356 CURVE SMOOTH",
+"251 367 OFFCURVE",
+"241 374 OFFCURVE",
+"222 377 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 0110;
+}

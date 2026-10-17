@@ -1,0 +1,38 @@
+{
+glyphname = "iteration-hira";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"313 631 LINE",
+"294 638 OFFCURVE",
+"282 636 OFFCURVE",
+"279 626 CURVE SMOOTH",
+"275 615 OFFCURVE",
+"280 605 OFFCURVE",
+"295 595 CURVE",
+"696 270 LINE",
+"520 155 LINE SMOOTH",
+"501 143 OFFCURVE",
+"495 132 OFFCURVE",
+"501 123 CURVE SMOOTH",
+"507 114 OFFCURVE",
+"520 112 OFFCURVE",
+"538 119 CURVE",
+"732 247 LINE",
+"744 258 OFFCURVE",
+"747 272 OFFCURVE",
+"740 290 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00653;
+unicode = 309D;
+}

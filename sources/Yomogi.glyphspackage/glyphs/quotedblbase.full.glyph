@@ -1,0 +1,17 @@
+{
+glyphname = quotedblbase.full;
+layers = (
+{
+components = (
+{
+name = quotedblbase;
+transform = "{1, 0, 0, 1, 306, 0}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid08280;
+}

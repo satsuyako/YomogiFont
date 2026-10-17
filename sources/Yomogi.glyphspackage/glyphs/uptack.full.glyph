@@ -1,0 +1,42 @@
+{
+glyphname = uptack.full;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"159 70 LINE",
+"148 65 OFFCURVE",
+"144 58 OFFCURVE",
+"143 46 CURVE SMOOTH",
+"142 34 OFFCURVE",
+"148 27 OFFCURVE",
+"164 26 CURVE",
+"838 28 LINE",
+"851 31 OFFCURVE",
+"857 38 OFFCURVE",
+"858 50 CURVE SMOOTH",
+"859 62 OFFCURVE",
+"853 69 OFFCURVE",
+"838 73 CURVE",
+"518 72 LINE",
+"516 673 LINE",
+"513 684 OFFCURVE",
+"506 690 OFFCURVE",
+"494 691 CURVE SMOOTH",
+"482 692 OFFCURVE",
+"475 686 OFFCURVE",
+"471 673 CURVE",
+"474 71 LINE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00757;
+unicode = 22A5;
+}

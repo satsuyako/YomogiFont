@@ -1,0 +1,24 @@
+{
+glyphname = numero;
+layers = (
+{
+components = (
+{
+name = N;
+transform = "{1, 0, 0, 1, 10, 0}";
+},
+{
+name = o;
+transform = "{1, 0, 0, 1, 436, 0}";
+},
+{
+name = period;
+transform = "{0.77315, 0, 0, 0.77315, 851, 1}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 1000;
+}
+);
+unicode = 2116;
+}

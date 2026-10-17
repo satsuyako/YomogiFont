@@ -1,0 +1,32 @@
+{
+glyphname = macron.full.vert;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"992 829 LINE SMOOTH",
+"991 850 OFFCURVE",
+"983 859 OFFCURVE",
+"970 858 CURVE SMOOTH",
+"956 857 OFFCURVE",
+"948 849 OFFCURVE",
+"946 831 CURVE",
+"945 -108 LINE",
+"947 -128 OFFCURVE",
+"954 -138 OFFCURVE",
+"967 -138 CURVE SMOOTH",
+"979 -138 OFFCURVE",
+"987 -128 OFFCURVE",
+"991 -108 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid07889;
+}

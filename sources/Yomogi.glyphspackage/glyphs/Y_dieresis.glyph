@@ -1,0 +1,21 @@
+{
+glyphname = Ydieresis;
+layers = (
+{
+components = (
+{
+name = Y;
+},
+{
+name = dieresiscomb.case;
+transform = "{1, 0, 0, 1, -45, 48}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00224;
+unicode = 0178;
+}

@@ -1,0 +1,55 @@
+{
+glyphname = colonsign;
+layers = (
+{
+components = (
+{
+name = C;
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"357 751 LINE",
+"365 768 OFFCURVE",
+"364 779 OFFCURVE",
+"353 784 CURVE SMOOTH",
+"341 789 OFFCURVE",
+"330 779 OFFCURVE",
+"320 757 CURVE",
+"46 2 LINE SMOOTH",
+"40 -15 OFFCURVE",
+"43 -26 OFFCURVE",
+"54 -29 CURVE SMOOTH",
+"65 -32 OFFCURVE",
+"74 -25 OFFCURVE",
+"82 -9 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"436 745 LINE",
+"444 762 OFFCURVE",
+"443 773 OFFCURVE",
+"432 778 CURVE SMOOTH",
+"420 783 OFFCURVE",
+"409 773 OFFCURVE",
+"399 751 CURVE",
+"125 -4 LINE SMOOTH",
+"119 -21 OFFCURVE",
+"122 -32 OFFCURVE",
+"133 -35 CURVE SMOOTH",
+"144 -38 OFFCURVE",
+"153 -31 OFFCURVE",
+"161 -15 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 20A1;
+}

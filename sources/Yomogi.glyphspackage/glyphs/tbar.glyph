@@ -1,0 +1,36 @@
+{
+glyphname = tbar;
+layers = (
+{
+components = (
+{
+name = t;
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"84 245 LINE",
+"63 242 OFFCURVE",
+"53 235 OFFCURVE",
+"53 223 CURVE SMOOTH",
+"53 211 OFFCURVE",
+"62 205 OFFCURVE",
+"82 205 CURVE SMOOTH",
+"421 204 LINE",
+"440 206 OFFCURVE",
+"450 213 OFFCURVE",
+"450 223 CURVE SMOOTH",
+"450 234 OFFCURVE",
+"440 241 OFFCURVE",
+"421 244 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 0167;
+}

@@ -1,0 +1,32 @@
+{
+glyphname = brokenbar.rotat;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"954 596 LINE",
+"972 595 OFFCURVE",
+"981 601 OFFCURVE",
+"982 616 CURVE SMOOTH",
+"982 630 OFFCURVE",
+"971 638 OFFCURVE",
+"950 641 CURVE",
+"130 636 LINE SMOOTH",
+"108 635 OFFCURVE",
+"97 628 OFFCURVE",
+"98 615 CURVE SMOOTH",
+"99 602 OFFCURVE",
+"111 594 OFFCURVE",
+"132 591 CURVE"
+);
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08812;
+}

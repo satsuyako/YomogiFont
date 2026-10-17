@@ -1,0 +1,39 @@
+{
+glyphname = gradient.full;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"841 692 LINE",
+"505 55 LINE",
+"159 695 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"881 690 LINE",
+"888 715 OFFCURVE",
+"882 729 OFFCURVE",
+"863 732 CURVE",
+"136 736 LINE",
+"117 733 OFFCURVE",
+"112 718 OFFCURVE",
+"120 690 CURVE",
+"485 10 LINE SMOOTH",
+"496 -9 OFFCURVE",
+"507 -12 OFFCURVE",
+"520 1 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid00760;
+unicode = 2207;
+}

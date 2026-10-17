@@ -1,0 +1,16 @@
+{
+glyphname = yen.rotat;
+layers = (
+{
+components = (
+{
+name = yen.full;
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08780;
+}

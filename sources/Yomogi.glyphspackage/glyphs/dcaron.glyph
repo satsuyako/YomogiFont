@@ -1,0 +1,31 @@
+{
+glyphname = dcaron;
+layers = (
+{
+components = (
+{
+name = d;
+transform = "{0.91388, 0, 0, 1, -34, 0}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"420 592 LINE SMOOTH",
+"418 567 OFFCURVE",
+"451 555 OFFCURVE",
+"458 588 CURVE SMOOTH",
+"485 720 LINE SMOOTH",
+"495 765 OFFCURVE",
+"437 780 OFFCURVE",
+"432 723 CURVE SMOOTH"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 010F;
+}

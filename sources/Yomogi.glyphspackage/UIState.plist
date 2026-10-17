@@ -1,0 +1,28 @@
+{
+displayStrings = (
+"/uni4F56 
+/uni6CCC 
+/uni6BD6 
+/uni7955 
+/uni79D8 
+
+/uni4F56/uni79D8/uni5BC6/.notdef",
+"a/space a:;a
+colon:
+semicolon;",
+"
+
+
+\"/space-han U+0022\"
+'/space U+0027'
+/quotedblleft U+201C/space U+201D/quotedblright 
+/quoteleft U+2018/space U+2019/quoteright 
+
+1/space +/space 2/space =/space 3/space -/space ~
+
+,.;",
+"l/lacute/lcaron/lcommaaccent/ldot l/lj/lslash",
+"/f_f_l/fl",
+nnlnn
+);
+}

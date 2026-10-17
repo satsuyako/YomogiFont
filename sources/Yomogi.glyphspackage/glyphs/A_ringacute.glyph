@@ -1,0 +1,23 @@
+{
+glyphname = Aringacute;
+layers = (
+{
+components = (
+{
+name = A;
+},
+{
+name = ringcomb.case;
+transform = "{1, 0, 0, 1, -52, 78}";
+},
+{
+name = acutecomb.case;
+transform = "{0.90909, 0, 0, 0.90909, 23, 360}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 500;
+}
+);
+unicode = 01FA;
+}

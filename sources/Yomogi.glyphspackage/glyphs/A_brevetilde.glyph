@@ -1,0 +1,23 @@
+{
+glyphname = Abrevetilde;
+layers = (
+{
+components = (
+{
+name = A;
+},
+{
+name = brevecomb.case;
+transform = "{1, 0, 0, 1, 0, 146}";
+},
+{
+name = tildecomb.case;
+transform = "{1, 0, 0, 1, -45, 216}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 500;
+}
+);
+unicode = 1EB4;
+}

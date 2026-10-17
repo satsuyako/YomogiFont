@@ -1,0 +1,32 @@
+{
+glyphname = hyphen.rotat;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"523 797 LINE",
+"520 818 OFFCURVE",
+"513 828 OFFCURVE",
+"501 828 CURVE SMOOTH",
+"489 829 OFFCURVE",
+"483 819 OFFCURVE",
+"483 799 CURVE SMOOTH",
+"482 420 LINE",
+"484 401 OFFCURVE",
+"491 391 OFFCURVE",
+"501 391 CURVE SMOOTH",
+"512 391 OFFCURVE",
+"519 401 OFFCURVE",
+"522 420 CURVE"
+);
+}
+);
+vertWidth = 500;
+width = 1000;
+}
+);
+note = cid08733;
+}

@@ -1,0 +1,41 @@
+{
+glyphname = Lambda;
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"624 460 OFFCURVE",
+"536 699 OFFCURVE",
+"513 747 CURVE",
+"498 761 OFFCURVE",
+"484 759 OFFCURVE",
+"472 741 CURVE",
+"425 613 LINE",
+"216 31 LINE",
+"211 11 OFFCURVE",
+"217 0 OFFCURVE",
+"233 -2 CURVE SMOOTH",
+"250 -4 OFFCURVE",
+"259 4 OFFCURVE",
+"260 21 CURVE",
+"496 683 LINE",
+"736 16 LINE",
+"744 2 OFFCURVE",
+"754 -4 OFFCURVE",
+"765 -2 CURVE SMOOTH",
+"775 1 OFFCURVE",
+"779 11 OFFCURVE",
+"776 29 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+note = cid01021;
+unicode = 039B;
+}

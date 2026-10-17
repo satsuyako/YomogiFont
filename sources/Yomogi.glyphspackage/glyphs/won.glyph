@@ -1,0 +1,36 @@
+{
+glyphname = won;
+layers = (
+{
+components = (
+{
+name = W;
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"42 382 LINE",
+"21 379 OFFCURVE",
+"11 372 OFFCURVE",
+"11 360 CURVE SMOOTH",
+"11 348 OFFCURVE",
+"20 342 OFFCURVE",
+"40 342 CURVE SMOOTH",
+"459 341 LINE",
+"478 343 OFFCURVE",
+"488 350 OFFCURVE",
+"488 360 CURVE SMOOTH",
+"488 371 OFFCURVE",
+"478 378 OFFCURVE",
+"459 381 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 20A9;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Eogonek;
+layers = (
+{
+components = (
+{
+name = E;
+},
+{
+name = ogonekcomb.case;
+transform = "{1, 0, 0, 1, 85, 72}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 500;
+}
+);
+unicode = 0118;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = approxequal;
+layers = (
+{
+components = (
+{
+name = tildecomb;
+transform = "{1.06497, 0, 0, 1, -64, -364}";
+},
+{
+name = tildecomb;
+transform = "{1.06497, 0, 0, 1, -64, -497}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 500;
+}
+);
+unicode = 2248;
+}

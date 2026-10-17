@@ -1,0 +1,23 @@
+{
+glyphname = acircumflexgrave;
+layers = (
+{
+components = (
+{
+name = a;
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, -98, -94}";
+},
+{
+name = gravecomb;
+transform = "{0.83333, 0, 0, 0.83333, 30, 174}";
+}
+);
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+width = 500;
+}
+);
+unicode = 1EA7;
+}

@@ -1,0 +1,33 @@
+{
+glyphname = "prolonged-kana.half";
+layers = (
+{
+layerId = "5FC8A674-728C-4571-B0AF-A1C1BCF88B6F";
+paths = (
+{
+closed = 1;
+nodes = (
+"70 305 LINE",
+"50 302 OFFCURVE",
+"40 294 OFFCURVE",
+"40 280 CURVE SMOOTH",
+"39 266 OFFCURVE",
+"49 259 OFFCURVE",
+"68 259 CURVE SMOOTH",
+"448 258 LINE",
+"467 260 OFFCURVE",
+"477 268 OFFCURVE",
+"478 280 CURVE SMOOTH",
+"478 293 OFFCURVE",
+"468 301 OFFCURVE",
+"448 304 CURVE"
+);
+}
+);
+vertWidth = 1000;
+width = 500;
+}
+);
+note = cid00342;
+unicode = FF70;
+}
